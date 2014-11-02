@@ -1,0 +1,2999 @@
+next () -> 30 in queue. 4501 processed.
+process <TPoint pos=[158, 143] from_pos=[158, 159] dir=T>
+3 possible dirs.
+[154, 143] -> ['B', 'R'] from L
+[162, 143] -> ['L', 'R'] from R
+[166, 143] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[158, 143] from_pos=[158, 159] dir=T>. 2 key posi
+tions found.
+next () -> 31 in queue. 4502 processed.
+process <TPoint pos=[166, 143] from_pos=[158, 143] dir=R>
+2 possible dirs.
+[166, 139] -> ['T', 'B', 'L'] from T
+[166, 135] -> ['B', 'L', 'R'] from T
+** Done processing <TPoint pos=[166, 143] from_pos=[158, 143] dir=R>. 2 key posi
+tions found.
+next () -> 32 in queue. 4503 processed.
+process <TPoint pos=[166, 135] from_pos=[166, 143] dir=T>
+3 possible dirs.
+[162, 135] -> ['L', 'R'] from L
+[158, 135] -> ['L', 'R'] from L
+[154, 135] -> ['T', 'R'] from L
+[170, 135] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[166, 135] from_pos=[166, 143] dir=T>. 2 key posi
+tions found.
+next () -> 33 in queue. 4504 processed.
+process <TPoint pos=[170, 135] from_pos=[166, 135] dir=R>
+2 possible dirs.
+[170, 131] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[170, 135] from_pos=[166, 135] dir=R>. 1 key posi
+tions found.
+next () -> 33 in queue. 4505 processed.
+process <TPoint pos=[170, 131] from_pos=[170, 135] dir=T>
+2 possible dirs.
+[166, 131] -> ['T', 'L', 'R'] from L
+[162, 131] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[170, 131] from_pos=[170, 135] dir=T>. 2 key posi
+tions found.
+next () -> 34 in queue. 4506 processed.
+process <TPoint pos=[162, 131] from_pos=[170, 131] dir=L>
+2 possible dirs.
+[162, 127] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[162, 131] from_pos=[170, 131] dir=L>. 1 key posi
+tions found.
+next () -> 34 in queue. 4507 processed.
+process <TPoint pos=[162, 127] from_pos=[162, 131] dir=T>
+2 possible dirs.
+[158, 127] -> ['L', 'R'] from L
+[154, 127] -> ['T', 'L', 'R'] from L
+[150, 127] -> ['R'] from L
+** Done processing <TPoint pos=[162, 127] from_pos=[162, 131] dir=T>. 1 key posi
+tions found.
+next () -> 34 in queue. 4508 processed.
+process <TPoint pos=[154, 127] from_pos=[162, 127] dir=L>
+3 possible dirs.
+[154, 123] -> ['B', 'L'] from T
+[150, 127] -> ['R'] from L
+** Done processing <TPoint pos=[154, 127] from_pos=[162, 127] dir=L>. 1 key posi
+tions found.
+next () -> 34 in queue. 4509 processed.
+process <TPoint pos=[154, 123] from_pos=[154, 127] dir=T>
+2 possible dirs.
+[150, 123] -> ['L', 'R'] from L
+[146, 123] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[154, 123] from_pos=[154, 127] dir=T>. 1 key posi
+tions found.
+next () -> 34 in queue. 4510 processed.
+process <TPoint pos=[146, 123] from_pos=[154, 123] dir=L>
+2 possible dirs.
+[146, 127] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[146, 123] from_pos=[154, 123] dir=L>. 1 key posi
+tions found.
+next () -> 34 in queue. 4511 processed.
+process <TPoint pos=[146, 127] from_pos=[146, 123] dir=B>
+2 possible dirs.
+[142, 127] -> ['R'] from L
+** Done processing <TPoint pos=[146, 127] from_pos=[146, 123] dir=B>. 0 key posi
+tions found.
+next () -> 33 in queue. 4512 processed.
+process <TPoint pos=[166, 131] from_pos=[170, 131] dir=L>
+3 possible dirs.
+[166, 127] -> ['T', 'B'] from T
+[166, 123] -> ['T', 'B'] from T
+[166, 119] -> ['B', 'L'] from T
+[162, 131] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[166, 131] from_pos=[170, 131] dir=L>. 2 key posi
+tions found.
+next () -> 33 in queue. 4513 processed.
+process <TPoint pos=[166, 119] from_pos=[166, 131] dir=T>
+2 possible dirs.
+[162, 119] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[166, 119] from_pos=[166, 131] dir=T>. 1 key posi
+tions found.
+next () -> 33 in queue. 4514 processed.
+process <TPoint pos=[162, 119] from_pos=[166, 119] dir=L>
+2 possible dirs.
+[162, 123] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[162, 119] from_pos=[166, 119] dir=L>. 1 key posi
+tions found.
+next () -> 33 in queue. 4515 processed.
+process <TPoint pos=[162, 123] from_pos=[162, 119] dir=B>
+2 possible dirs.
+[158, 123] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[162, 123] from_pos=[162, 119] dir=B>. 1 key posi
+tions found.
+next () -> 33 in queue. 4516 processed.
+process <TPoint pos=[158, 123] from_pos=[162, 123] dir=L>
+2 possible dirs.
+[158, 119] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[158, 123] from_pos=[162, 123] dir=L>. 1 key posi
+tions found.
+next () -> 33 in queue. 4517 processed.
+process <TPoint pos=[158, 119] from_pos=[158, 123] dir=T>
+2 possible dirs.
+[154, 119] -> ['T', 'L', 'R'] from L
+[150, 119] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[158, 119] from_pos=[158, 123] dir=T>. 2 key posi
+tions found.
+next () -> 34 in queue. 4518 processed.
+process <TPoint pos=[150, 119] from_pos=[158, 119] dir=L>
+2 possible dirs.
+[150, 115] -> ['B'] from T
+** Done processing <TPoint pos=[150, 119] from_pos=[158, 119] dir=L>. 0 key posi
+tions found.
+next () -> 33 in queue. 4519 processed.
+process <TPoint pos=[154, 119] from_pos=[158, 119] dir=L>
+3 possible dirs.
+[154, 115] -> ['B', 'R'] from T
+[150, 119] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[154, 119] from_pos=[158, 119] dir=L>. 2 key posi
+tions found.
+next () -> 33 in queue. 4520 processed.
+process <TPoint pos=[154, 115] from_pos=[154, 119] dir=T>
+2 possible dirs.
+[158, 115] -> ['T', 'L', 'R'] from R
+[162, 115] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[154, 115] from_pos=[154, 119] dir=T>. 2 key posi
+tions found.
+next () -> 34 in queue. 4521 processed.
+process <TPoint pos=[162, 115] from_pos=[154, 115] dir=R>
+2 possible dirs.
+[162, 111] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[162, 115] from_pos=[154, 115] dir=R>. 1 key posi
+tions found.
+next () -> 34 in queue. 4522 processed.
+process <TPoint pos=[162, 111] from_pos=[162, 115] dir=T>
+2 possible dirs.
+[166, 111] -> ['T', 'B', 'L'] from R
+** Done processing <TPoint pos=[162, 111] from_pos=[162, 115] dir=T>. 1 key posi
+tions found.
+next () -> 34 in queue. 4523 processed.
+process <TPoint pos=[166, 111] from_pos=[162, 111] dir=R>
+3 possible dirs.
+[166, 107] -> ['B'] from T
+[166, 115] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[166, 111] from_pos=[162, 111] dir=R>. 1 key posi
+tions found.
+next () -> 34 in queue. 4524 processed.
+process <TPoint pos=[166, 115] from_pos=[166, 111] dir=B>
+2 possible dirs.
+[170, 115] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[166, 115] from_pos=[166, 111] dir=B>. 1 key posi
+tions found.
+next () -> 34 in queue. 4525 processed.
+process <TPoint pos=[170, 115] from_pos=[166, 115] dir=R>
+2 possible dirs.
+[170, 119] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[170, 115] from_pos=[166, 115] dir=R>. 1 key posi
+tions found.
+next () -> 34 in queue. 4526 processed.
+process <TPoint pos=[170, 119] from_pos=[170, 115] dir=B>
+2 possible dirs.
+[174, 119] -> ['T', 'B', 'L'] from R
+** Done processing <TPoint pos=[170, 119] from_pos=[170, 115] dir=B>. 1 key posi
+tions found.
+next () -> 34 in queue. 4527 processed.
+process <TPoint pos=[174, 119] from_pos=[170, 119] dir=R>
+3 possible dirs.
+[174, 115] -> ['T', 'B'] from T
+[174, 111] -> ['B', 'L'] from T
+[174, 123] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[174, 119] from_pos=[170, 119] dir=R>. 2 key posi
+tions found.
+next () -> 35 in queue. 4528 processed.
+process <TPoint pos=[174, 123] from_pos=[174, 119] dir=B>
+2 possible dirs.
+[178, 123] -> ['B', 'L', 'R'] from R
+[182, 123] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[174, 123] from_pos=[174, 119] dir=B>. 2 key posi
+tions found.
+next () -> 36 in queue. 4529 processed.
+process <TPoint pos=[182, 123] from_pos=[174, 123] dir=R>
+2 possible dirs.
+[182, 119] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[182, 123] from_pos=[174, 123] dir=R>. 1 key posi
+tions found.
+next () -> 36 in queue. 4530 processed.
+process <TPoint pos=[182, 119] from_pos=[182, 123] dir=T>
+2 possible dirs.
+[178, 119] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[182, 119] from_pos=[182, 123] dir=T>. 1 key posi
+tions found.
+next () -> 36 in queue. 4531 processed.
+process <TPoint pos=[178, 119] from_pos=[182, 119] dir=L>
+2 possible dirs.
+[178, 115] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[178, 119] from_pos=[182, 119] dir=L>. 1 key posi
+tions found.
+next () -> 36 in queue. 4532 processed.
+process <TPoint pos=[178, 115] from_pos=[178, 119] dir=T>
+2 possible dirs.
+[182, 115] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[178, 115] from_pos=[178, 119] dir=T>. 1 key posi
+tions found.
+next () -> 36 in queue. 4533 processed.
+process <TPoint pos=[182, 115] from_pos=[178, 115] dir=R>
+2 possible dirs.
+[182, 111] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[182, 115] from_pos=[178, 115] dir=R>. 1 key posi
+tions found.
+next () -> 36 in queue. 4534 processed.
+process <TPoint pos=[182, 111] from_pos=[182, 115] dir=T>
+2 possible dirs.
+[178, 111] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[182, 111] from_pos=[182, 115] dir=T>. 1 key posi
+tions found.
+next () -> 36 in queue. 4535 processed.
+process <TPoint pos=[178, 111] from_pos=[182, 111] dir=L>
+2 possible dirs.
+[178, 107] -> ['T', 'B', 'R'] from T
+[178, 103] -> ['T', 'B'] from T
+[178, 99] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[178, 111] from_pos=[182, 111] dir=L>. 2 key posi
+tions found.
+next () -> 37 in queue. 4536 processed.
+process <TPoint pos=[178, 99] from_pos=[178, 111] dir=T>
+2 possible dirs.
+[174, 99] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[178, 99] from_pos=[178, 111] dir=T>. 1 key posit
+ions found.
+next () -> 37 in queue. 4537 processed.
+process <TPoint pos=[174, 99] from_pos=[178, 99] dir=L>
+2 possible dirs.
+[174, 103] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[174, 99] from_pos=[178, 99] dir=L>. 1 key positi
+ons found.
+next () -> 37 in queue. 4538 processed.
+process <TPoint pos=[174, 103] from_pos=[174, 99] dir=B>
+2 possible dirs.
+[170, 103] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[174, 103] from_pos=[174, 99] dir=B>. 1 key posit
+ions found.
+next () -> 37 in queue. 4539 processed.
+process <TPoint pos=[170, 103] from_pos=[174, 103] dir=L>
+2 possible dirs.
+[170, 99] -> ['B'] from T
+** Done processing <TPoint pos=[170, 103] from_pos=[174, 103] dir=L>. 0 key posi
+tions found.
+next () -> 36 in queue. 4540 processed.
+process <TPoint pos=[178, 107] from_pos=[178, 111] dir=T>
+3 possible dirs.
+[178, 103] -> ['T', 'B'] from T
+[178, 99] -> ['B', 'L'] from T
+[182, 107] -> ['L'] from R
+** Done processing <TPoint pos=[178, 107] from_pos=[178, 111] dir=T>. 1 key posi
+tions found.
+next () -> 35 in queue. 4541 processed.
+process <TPoint pos=[178, 123] from_pos=[174, 123] dir=R>
+3 possible dirs.
+[178, 127] -> ['T', 'L'] from B
+[182, 123] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[178, 123] from_pos=[174, 123] dir=R>. 2 key posi
+tions found.
+next () -> 35 in queue. 4542 processed.
+process <TPoint pos=[178, 127] from_pos=[178, 123] dir=B>
+2 possible dirs.
+[174, 127] -> ['L', 'R'] from L
+[170, 127] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[178, 127] from_pos=[178, 123] dir=B>. 1 key posi
+tions found.
+next () -> 35 in queue. 4543 processed.
+process <TPoint pos=[170, 127] from_pos=[178, 127] dir=L>
+2 possible dirs.
+[170, 123] -> ['B'] from T
+** Done processing <TPoint pos=[170, 127] from_pos=[178, 127] dir=L>. 0 key posi
+tions found.
+next () -> 34 in queue. 4544 processed.
+process <TPoint pos=[174, 111] from_pos=[174, 119] dir=T>
+2 possible dirs.
+[170, 111] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[174, 111] from_pos=[174, 119] dir=T>. 1 key posi
+tions found.
+next () -> 34 in queue. 4545 processed.
+process <TPoint pos=[170, 111] from_pos=[174, 111] dir=L>
+2 possible dirs.
+[170, 107] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[170, 111] from_pos=[174, 111] dir=L>. 1 key posi
+tions found.
+next () -> 34 in queue. 4546 processed.
+process <TPoint pos=[170, 107] from_pos=[170, 111] dir=T>
+2 possible dirs.
+[174, 107] -> ['L'] from R
+** Done processing <TPoint pos=[170, 107] from_pos=[170, 111] dir=T>. 0 key posi
+tions found.
+next () -> 33 in queue. 4547 processed.
+process <TPoint pos=[158, 115] from_pos=[154, 115] dir=R>
+3 possible dirs.
+[158, 111] -> ['T', 'B'] from T
+[158, 107] -> ['B', 'R'] from T
+[162, 115] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[158, 115] from_pos=[154, 115] dir=R>. 2 key posi
+tions found.
+next () -> 33 in queue. 4548 processed.
+process <TPoint pos=[158, 107] from_pos=[158, 115] dir=T>
+2 possible dirs.
+[162, 107] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[158, 107] from_pos=[158, 115] dir=T>. 1 key posi
+tions found.
+next () -> 33 in queue. 4549 processed.
+process <TPoint pos=[162, 107] from_pos=[158, 107] dir=R>
+2 possible dirs.
+[162, 103] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[162, 107] from_pos=[158, 107] dir=R>. 1 key posi
+tions found.
+next () -> 33 in queue. 4550 processed.
+process <TPoint pos=[162, 103] from_pos=[162, 107] dir=T>
+2 possible dirs.
+[166, 103] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[162, 103] from_pos=[162, 107] dir=T>. 1 key posi
+tions found.
+next () -> 33 in queue. 4551 processed.
+process <TPoint pos=[166, 103] from_pos=[162, 103] dir=R>
+2 possible dirs.
+[166, 99] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[166, 103] from_pos=[162, 103] dir=R>. 1 key posi
+tions found.
+next () -> 33 in queue. 4552 processed.
+process <TPoint pos=[166, 99] from_pos=[166, 103] dir=T>
+2 possible dirs.
+[162, 99] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[166, 99] from_pos=[166, 103] dir=T>. 1 key posit
+ions found.
+next () -> 33 in queue. 4553 processed.
+process <TPoint pos=[162, 99] from_pos=[166, 99] dir=L>
+2 possible dirs.
+[162, 95] -> ['T', 'B'] from T
+[162, 91] -> ['T', 'B'] from T
+[162, 87] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[162, 99] from_pos=[166, 99] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4554 processed.
+process <TPoint pos=[162, 87] from_pos=[162, 99] dir=T>
+2 possible dirs.
+[158, 87] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[162, 87] from_pos=[162, 99] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4555 processed.
+process <TPoint pos=[158, 87] from_pos=[162, 87] dir=L>
+2 possible dirs.
+[158, 91] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[158, 87] from_pos=[162, 87] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4556 processed.
+process <TPoint pos=[158, 91] from_pos=[158, 87] dir=B>
+2 possible dirs.
+[154, 91] -> ['T', 'L', 'R'] from L
+[150, 91] -> ['R'] from L
+** Done processing <TPoint pos=[158, 91] from_pos=[158, 87] dir=B>. 1 key positi
+ons found.
+next () -> 33 in queue. 4557 processed.
+process <TPoint pos=[154, 91] from_pos=[158, 91] dir=L>
+3 possible dirs.
+[154, 87] -> ['B', 'L'] from T
+[150, 91] -> ['R'] from L
+** Done processing <TPoint pos=[154, 91] from_pos=[158, 91] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4558 processed.
+process <TPoint pos=[154, 87] from_pos=[154, 91] dir=T>
+2 possible dirs.
+[150, 87] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[154, 87] from_pos=[154, 91] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4559 processed.
+process <TPoint pos=[150, 87] from_pos=[154, 87] dir=L>
+2 possible dirs.
+[150, 83] -> ['T', 'B', 'R'] from T
+[150, 79] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[150, 87] from_pos=[154, 87] dir=L>. 2 key positi
+ons found.
+next () -> 34 in queue. 4560 processed.
+process <TPoint pos=[150, 79] from_pos=[150, 87] dir=T>
+2 possible dirs.
+[154, 79] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[150, 79] from_pos=[150, 87] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4561 processed.
+process <TPoint pos=[154, 79] from_pos=[150, 79] dir=R>
+2 possible dirs.
+[154, 75] -> ['T', 'B'] from T
+[154, 71] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[154, 79] from_pos=[150, 79] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4562 processed.
+process <TPoint pos=[154, 71] from_pos=[154, 79] dir=T>
+2 possible dirs.
+[158, 71] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[154, 71] from_pos=[154, 79] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4563 processed.
+process <TPoint pos=[158, 71] from_pos=[154, 71] dir=R>
+2 possible dirs.
+[158, 67] -> ['B', 'L', 'R'] from T
+** Done processing <TPoint pos=[158, 71] from_pos=[154, 71] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4564 processed.
+process <TPoint pos=[158, 67] from_pos=[158, 71] dir=T>
+3 possible dirs.
+[154, 67] -> ['T', 'R'] from L
+[162, 67] -> ['L', 'R'] from R
+[166, 67] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[158, 67] from_pos=[158, 71] dir=T>. 2 key positi
+ons found.
+next () -> 35 in queue. 4565 processed.
+process <TPoint pos=[166, 67] from_pos=[158, 67] dir=R>
+2 possible dirs.
+[166, 71] -> ['T', 'B', 'L'] from B
+[166, 75] -> ['T', 'B'] from B
+[166, 79] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[166, 67] from_pos=[158, 67] dir=R>. 2 key positi
+ons found.
+next () -> 36 in queue. 4566 processed.
+process <TPoint pos=[166, 79] from_pos=[166, 67] dir=B>
+2 possible dirs.
+[170, 79] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[166, 79] from_pos=[166, 67] dir=B>. 1 key positi
+ons found.
+next () -> 36 in queue. 4567 processed.
+process <TPoint pos=[170, 79] from_pos=[166, 79] dir=R>
+2 possible dirs.
+[170, 83] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[170, 79] from_pos=[166, 79] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4568 processed.
+process <TPoint pos=[170, 83] from_pos=[170, 79] dir=B>
+2 possible dirs.
+[174, 83] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[170, 83] from_pos=[170, 79] dir=B>. 1 key positi
+ons found.
+next () -> 36 in queue. 4569 processed.
+process <TPoint pos=[174, 83] from_pos=[170, 83] dir=R>
+2 possible dirs.
+[174, 79] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[174, 83] from_pos=[170, 83] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4570 processed.
+process <TPoint pos=[174, 79] from_pos=[174, 83] dir=T>
+2 possible dirs.
+[178, 79] -> ['L', 'R'] from R
+[182, 79] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[174, 79] from_pos=[174, 83] dir=T>. 1 key positi
+ons found.
+next () -> 36 in queue. 4571 processed.
+process <TPoint pos=[182, 79] from_pos=[174, 79] dir=R>
+2 possible dirs.
+[182, 75] -> ['T', 'B'] from T
+[182, 71] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[182, 79] from_pos=[174, 79] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4572 processed.
+process <TPoint pos=[182, 71] from_pos=[182, 79] dir=T>
+2 possible dirs.
+[186, 71] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[182, 71] from_pos=[182, 79] dir=T>. 1 key positi
+ons found.
+next () -> 36 in queue. 4573 processed.
+process <TPoint pos=[186, 71] from_pos=[182, 71] dir=R>
+2 possible dirs.
+[186, 67] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[186, 71] from_pos=[182, 71] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4574 processed.
+process <TPoint pos=[186, 67] from_pos=[186, 71] dir=T>
+2 possible dirs.
+[182, 67] -> ['R'] from L
+** Done processing <TPoint pos=[186, 67] from_pos=[186, 71] dir=T>. 0 key positi
+ons found.
+next () -> 35 in queue. 4575 processed.
+process <TPoint pos=[166, 71] from_pos=[166, 67] dir=B>
+3 possible dirs.
+[166, 75] -> ['T', 'B'] from B
+[166, 79] -> ['T', 'R'] from B
+[162, 71] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[166, 71] from_pos=[166, 67] dir=B>. 2 key positi
+ons found.
+next () -> 35 in queue. 4576 processed.
+process <TPoint pos=[162, 71] from_pos=[166, 71] dir=L>
+2 possible dirs.
+[162, 75] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[162, 71] from_pos=[166, 71] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4577 processed.
+process <TPoint pos=[162, 75] from_pos=[162, 71] dir=B>
+2 possible dirs.
+[158, 75] -> ['R'] from L
+** Done processing <TPoint pos=[162, 75] from_pos=[162, 71] dir=B>. 0 key positi
+ons found.
+next () -> 34 in queue. 4578 processed.
+process <TPoint pos=[154, 67] from_pos=[158, 67] dir=L>
+2 possible dirs.
+[154, 63] -> ['T', 'B'] from T
+[154, 59] -> ['T', 'B'] from T
+[154, 55] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[154, 67] from_pos=[158, 67] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4579 processed.
+process <TPoint pos=[154, 55] from_pos=[154, 67] dir=T>
+2 possible dirs.
+[150, 55] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[154, 55] from_pos=[154, 67] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4580 processed.
+process <TPoint pos=[150, 55] from_pos=[154, 55] dir=L>
+2 possible dirs.
+[150, 59] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[150, 55] from_pos=[154, 55] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4581 processed.
+process <TPoint pos=[150, 59] from_pos=[150, 55] dir=B>
+2 possible dirs.
+[146, 59] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[150, 59] from_pos=[150, 55] dir=B>. 1 key positi
+ons found.
+next () -> 34 in queue. 4582 processed.
+process <TPoint pos=[146, 59] from_pos=[150, 59] dir=L>
+2 possible dirs.
+[146, 55] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[146, 59] from_pos=[150, 59] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4583 processed.
+process <TPoint pos=[146, 55] from_pos=[146, 59] dir=T>
+2 possible dirs.
+[142, 55] -> ['T', 'L', 'R'] from L
+[138, 55] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[146, 55] from_pos=[146, 59] dir=T>. 2 key positi
+ons found.
+next () -> 35 in queue. 4584 processed.
+process <TPoint pos=[138, 55] from_pos=[146, 55] dir=L>
+2 possible dirs.
+[138, 51] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[138, 55] from_pos=[146, 55] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4585 processed.
+process <TPoint pos=[138, 51] from_pos=[138, 55] dir=T>
+2 possible dirs.
+[134, 51] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[138, 51] from_pos=[138, 55] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4586 processed.
+process <TPoint pos=[134, 51] from_pos=[138, 51] dir=L>
+2 possible dirs.
+[134, 55] -> ['T'] from B
+** Done processing <TPoint pos=[134, 51] from_pos=[138, 51] dir=L>. 0 key positi
+ons found.
+next () -> 34 in queue. 4587 processed.
+process <TPoint pos=[142, 55] from_pos=[146, 55] dir=L>
+3 possible dirs.
+[142, 51] -> ['T', 'B', 'R'] from T
+[142, 47] -> ['B', 'R'] from T
+[138, 55] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[142, 55] from_pos=[146, 55] dir=L>. 3 key positi
+ons found.
+next () -> 35 in queue. 4588 processed.
+process <TPoint pos=[142, 47] from_pos=[142, 55] dir=T>
+2 possible dirs.
+[146, 47] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[142, 47] from_pos=[142, 55] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4589 processed.
+process <TPoint pos=[146, 47] from_pos=[142, 47] dir=R>
+2 possible dirs.
+[146, 43] -> ['T', 'B', 'R'] from T
+[146, 39] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[146, 47] from_pos=[142, 47] dir=R>. 2 key positi
+ons found.
+next () -> 36 in queue. 4590 processed.
+process <TPoint pos=[146, 39] from_pos=[146, 47] dir=T>
+2 possible dirs.
+[150, 39] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[146, 39] from_pos=[146, 47] dir=T>. 1 key positi
+ons found.
+next () -> 36 in queue. 4591 processed.
+process <TPoint pos=[150, 39] from_pos=[146, 39] dir=R>
+2 possible dirs.
+[150, 35] -> ['B', 'L', 'R'] from T
+** Done processing <TPoint pos=[150, 39] from_pos=[146, 39] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4592 processed.
+process <TPoint pos=[150, 35] from_pos=[150, 39] dir=T>
+3 possible dirs.
+[146, 35] -> ['T', 'R'] from L
+[154, 35] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[150, 35] from_pos=[150, 39] dir=T>. 2 key positi
+ons found.
+next () -> 37 in queue. 4593 processed.
+process <TPoint pos=[154, 35] from_pos=[150, 35] dir=R>
+2 possible dirs.
+[154, 39] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[154, 35] from_pos=[150, 35] dir=R>. 1 key positi
+ons found.
+next () -> 37 in queue. 4594 processed.
+process <TPoint pos=[154, 39] from_pos=[154, 35] dir=B>
+2 possible dirs.
+[158, 39] -> ['L', 'R'] from R
+[162, 39] -> ['L'] from R
+** Done processing <TPoint pos=[154, 39] from_pos=[154, 35] dir=B>. 0 key positi
+ons found.
+next () -> 36 in queue. 4595 processed.
+process <TPoint pos=[146, 35] from_pos=[150, 35] dir=L>
+2 possible dirs.
+[146, 31] -> ['T', 'B'] from T
+[146, 27] -> ['T', 'B'] from T
+[146, 23] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[146, 35] from_pos=[150, 35] dir=L>. 1 key positi
+ons found.
+next () -> 36 in queue. 4596 processed.
+process <TPoint pos=[146, 23] from_pos=[146, 35] dir=T>
+2 possible dirs.
+[142, 23] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[146, 23] from_pos=[146, 35] dir=T>. 1 key positi
+ons found.
+next () -> 36 in queue. 4597 processed.
+process <TPoint pos=[142, 23] from_pos=[146, 23] dir=L>
+2 possible dirs.
+[142, 27] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[142, 23] from_pos=[146, 23] dir=L>. 1 key positi
+ons found.
+next () -> 36 in queue. 4598 processed.
+process <TPoint pos=[142, 27] from_pos=[142, 23] dir=B>
+2 possible dirs.
+[138, 27] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[142, 27] from_pos=[142, 23] dir=B>. 1 key positi
+ons found.
+next () -> 36 in queue. 4599 processed.
+process <TPoint pos=[138, 27] from_pos=[142, 27] dir=L>
+2 possible dirs.
+[138, 23] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[138, 27] from_pos=[142, 27] dir=L>. 1 key positi
+ons found.
+next () -> 36 in queue. 4600 processed.
+process <TPoint pos=[138, 23] from_pos=[138, 27] dir=T>
+2 possible dirs.
+[134, 23] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[138, 23] from_pos=[138, 27] dir=T>. 1 key positi
+ons found.
+next () -> 36 in queue. 4601 processed.
+process <TPoint pos=[134, 23] from_pos=[138, 23] dir=L>
+2 possible dirs.
+[134, 19] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[134, 23] from_pos=[138, 23] dir=L>. 1 key positi
+ons found.
+next () -> 36 in queue. 4602 processed.
+process <TPoint pos=[134, 19] from_pos=[134, 23] dir=T>
+2 possible dirs.
+[138, 19] -> ['L', 'R'] from R
+[142, 19] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[134, 19] from_pos=[134, 23] dir=T>. 1 key positi
+ons found.
+next () -> 36 in queue. 4603 processed.
+process <TPoint pos=[142, 19] from_pos=[134, 19] dir=R>
+2 possible dirs.
+[142, 15] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[142, 19] from_pos=[134, 19] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4604 processed.
+process <TPoint pos=[142, 15] from_pos=[142, 19] dir=T>
+2 possible dirs.
+[146, 15] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[142, 15] from_pos=[142, 19] dir=T>. 1 key positi
+ons found.
+next () -> 36 in queue. 4605 processed.
+process <TPoint pos=[146, 15] from_pos=[142, 15] dir=R>
+2 possible dirs.
+[146, 19] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[146, 15] from_pos=[142, 15] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4606 processed.
+process <TPoint pos=[146, 19] from_pos=[146, 15] dir=B>
+2 possible dirs.
+[150, 19] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[146, 19] from_pos=[146, 15] dir=B>. 1 key positi
+ons found.
+next () -> 36 in queue. 4607 processed.
+process <TPoint pos=[150, 19] from_pos=[146, 19] dir=R>
+2 possible dirs.
+[150, 23] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[150, 19] from_pos=[146, 19] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4608 processed.
+process <TPoint pos=[150, 23] from_pos=[150, 19] dir=B>
+2 possible dirs.
+[154, 23] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[150, 23] from_pos=[150, 19] dir=B>. 1 key positi
+ons found.
+next () -> 36 in queue. 4609 processed.
+process <TPoint pos=[154, 23] from_pos=[150, 23] dir=R>
+2 possible dirs.
+[154, 27] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[154, 23] from_pos=[150, 23] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4610 processed.
+process <TPoint pos=[154, 27] from_pos=[154, 23] dir=B>
+2 possible dirs.
+[158, 27] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[154, 27] from_pos=[154, 23] dir=B>. 1 key positi
+ons found.
+next () -> 36 in queue. 4611 processed.
+process <TPoint pos=[158, 27] from_pos=[154, 27] dir=R>
+2 possible dirs.
+[158, 31] -> ['T', 'B', 'L'] from B
+[158, 35] -> ['T'] from B
+** Done processing <TPoint pos=[158, 27] from_pos=[154, 27] dir=R>. 1 key positi
+ons found.
+next () -> 36 in queue. 4612 processed.
+process <TPoint pos=[158, 31] from_pos=[158, 27] dir=B>
+3 possible dirs.
+[158, 35] -> ['T'] from B
+[154, 31] -> ['L', 'R'] from L
+[150, 31] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[158, 31] from_pos=[158, 27] dir=B>. 1 key positi
+ons found.
+next () -> 36 in queue. 4613 processed.
+process <TPoint pos=[150, 31] from_pos=[158, 31] dir=L>
+2 possible dirs.
+[150, 27] -> ['B'] from T
+** Done processing <TPoint pos=[150, 31] from_pos=[158, 31] dir=L>. 0 key positi
+ons found.
+next () -> 35 in queue. 4614 processed.
+process <TPoint pos=[146, 43] from_pos=[146, 47] dir=T>
+3 possible dirs.
+[146, 39] -> ['B', 'R'] from T
+[150, 43] -> ['L', 'R'] from R
+[154, 43] -> ['L', 'R'] from R
+[158, 43] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[146, 43] from_pos=[146, 47] dir=T>. 2 key positi
+ons found.
+next () -> 35 in queue. 4615 processed.
+process <TPoint pos=[158, 43] from_pos=[146, 43] dir=R>
+2 possible dirs.
+[158, 47] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[158, 43] from_pos=[146, 43] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4616 processed.
+process <TPoint pos=[158, 47] from_pos=[158, 43] dir=B>
+2 possible dirs.
+[162, 47] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[158, 47] from_pos=[158, 43] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4617 processed.
+process <TPoint pos=[162, 47] from_pos=[158, 47] dir=R>
+2 possible dirs.
+[162, 43] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[162, 47] from_pos=[158, 47] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4618 processed.
+process <TPoint pos=[162, 43] from_pos=[162, 47] dir=T>
+2 possible dirs.
+[166, 43] -> ['L', 'R'] from R
+[170, 43] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[162, 43] from_pos=[162, 47] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4619 processed.
+process <TPoint pos=[170, 43] from_pos=[162, 43] dir=R>
+2 possible dirs.
+[170, 47] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[170, 43] from_pos=[162, 43] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4620 processed.
+process <TPoint pos=[170, 47] from_pos=[170, 43] dir=B>
+2 possible dirs.
+[166, 47] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[170, 47] from_pos=[170, 43] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4621 processed.
+process <TPoint pos=[166, 47] from_pos=[170, 47] dir=L>
+2 possible dirs.
+[166, 51] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[166, 47] from_pos=[170, 47] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4622 processed.
+process <TPoint pos=[166, 51] from_pos=[166, 47] dir=B>
+2 possible dirs.
+[170, 51] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[166, 51] from_pos=[166, 47] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4623 processed.
+process <TPoint pos=[170, 51] from_pos=[166, 51] dir=R>
+2 possible dirs.
+[170, 55] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[170, 51] from_pos=[166, 51] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4624 processed.
+process <TPoint pos=[170, 55] from_pos=[170, 51] dir=B>
+2 possible dirs.
+[166, 55] -> ['R'] from L
+** Done processing <TPoint pos=[170, 55] from_pos=[170, 51] dir=B>. 0 key positi
+ons found.
+next () -> 34 in queue. 4625 processed.
+process <TPoint pos=[142, 51] from_pos=[142, 55] dir=T>
+3 possible dirs.
+[142, 47] -> ['B', 'R'] from T
+[146, 51] -> ['L', 'R'] from R
+[150, 51] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[142, 51] from_pos=[142, 55] dir=T>. 2 key positi
+ons found.
+next () -> 34 in queue. 4626 processed.
+process <TPoint pos=[150, 51] from_pos=[142, 51] dir=R>
+2 possible dirs.
+[150, 47] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[150, 51] from_pos=[142, 51] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4627 processed.
+process <TPoint pos=[150, 47] from_pos=[150, 51] dir=T>
+2 possible dirs.
+[154, 47] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[150, 47] from_pos=[150, 51] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4628 processed.
+process <TPoint pos=[154, 47] from_pos=[150, 47] dir=R>
+2 possible dirs.
+[154, 51] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[154, 47] from_pos=[150, 47] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4629 processed.
+process <TPoint pos=[154, 51] from_pos=[154, 47] dir=B>
+2 possible dirs.
+[158, 51] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[154, 51] from_pos=[154, 47] dir=B>. 1 key positi
+ons found.
+next () -> 34 in queue. 4630 processed.
+process <TPoint pos=[158, 51] from_pos=[154, 51] dir=R>
+2 possible dirs.
+[158, 55] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[158, 51] from_pos=[154, 51] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4631 processed.
+process <TPoint pos=[158, 55] from_pos=[158, 51] dir=B>
+2 possible dirs.
+[162, 55] -> ['T', 'B', 'L'] from R
+** Done processing <TPoint pos=[158, 55] from_pos=[158, 51] dir=B>. 1 key positi
+ons found.
+next () -> 34 in queue. 4632 processed.
+process <TPoint pos=[162, 55] from_pos=[158, 55] dir=R>
+3 possible dirs.
+[162, 51] -> ['B'] from T
+[162, 59] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[162, 55] from_pos=[158, 55] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4633 processed.
+process <TPoint pos=[162, 59] from_pos=[162, 55] dir=B>
+2 possible dirs.
+[166, 59] -> ['B', 'L', 'R'] from R
+[170, 59] -> ['L', 'R'] from R
+[174, 59] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[162, 59] from_pos=[162, 55] dir=B>. 2 key positi
+ons found.
+next () -> 35 in queue. 4634 processed.
+process <TPoint pos=[174, 59] from_pos=[162, 59] dir=R>
+2 possible dirs.
+[174, 55] -> ['T', 'B'] from T
+[174, 51] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[174, 59] from_pos=[162, 59] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4635 processed.
+process <TPoint pos=[174, 51] from_pos=[174, 59] dir=T>
+2 possible dirs.
+[178, 51] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[174, 51] from_pos=[174, 59] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4636 processed.
+process <TPoint pos=[178, 51] from_pos=[174, 51] dir=R>
+2 possible dirs.
+[178, 47] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[178, 51] from_pos=[174, 51] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4637 processed.
+process <TPoint pos=[178, 47] from_pos=[178, 51] dir=T>
+2 possible dirs.
+[174, 47] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[178, 47] from_pos=[178, 51] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4638 processed.
+process <TPoint pos=[174, 47] from_pos=[178, 47] dir=L>
+2 possible dirs.
+[174, 43] -> ['T', 'B'] from T
+[174, 39] -> ['T', 'B'] from T
+[174, 35] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[174, 47] from_pos=[178, 47] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4639 processed.
+process <TPoint pos=[174, 35] from_pos=[174, 47] dir=T>
+2 possible dirs.
+[170, 35] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[174, 35] from_pos=[174, 47] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4640 processed.
+process <TPoint pos=[170, 35] from_pos=[174, 35] dir=L>
+2 possible dirs.
+[170, 39] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[170, 35] from_pos=[174, 35] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4641 processed.
+process <TPoint pos=[170, 39] from_pos=[170, 35] dir=B>
+2 possible dirs.
+[166, 39] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[170, 39] from_pos=[170, 35] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4642 processed.
+process <TPoint pos=[166, 39] from_pos=[170, 39] dir=L>
+2 possible dirs.
+[166, 35] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[166, 39] from_pos=[170, 39] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4643 processed.
+process <TPoint pos=[166, 35] from_pos=[166, 39] dir=T>
+2 possible dirs.
+[162, 35] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[166, 35] from_pos=[166, 39] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4644 processed.
+process <TPoint pos=[162, 35] from_pos=[166, 35] dir=L>
+2 possible dirs.
+[162, 31] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[162, 35] from_pos=[166, 35] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4645 processed.
+process <TPoint pos=[162, 31] from_pos=[162, 35] dir=T>
+2 possible dirs.
+[166, 31] -> ['L', 'R'] from R
+[170, 31] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[162, 31] from_pos=[162, 35] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4646 processed.
+process <TPoint pos=[170, 31] from_pos=[162, 31] dir=R>
+2 possible dirs.
+[170, 27] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[170, 31] from_pos=[162, 31] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4647 processed.
+process <TPoint pos=[170, 27] from_pos=[170, 31] dir=T>
+2 possible dirs.
+[174, 27] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[170, 27] from_pos=[170, 31] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4648 processed.
+process <TPoint pos=[174, 27] from_pos=[170, 27] dir=R>
+2 possible dirs.
+[174, 31] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[174, 27] from_pos=[170, 27] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4649 processed.
+process <TPoint pos=[174, 31] from_pos=[174, 27] dir=B>
+2 possible dirs.
+[178, 31] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[174, 31] from_pos=[174, 27] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4650 processed.
+process <TPoint pos=[178, 31] from_pos=[174, 31] dir=R>
+2 possible dirs.
+[178, 35] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[178, 31] from_pos=[174, 31] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4651 processed.
+process <TPoint pos=[178, 35] from_pos=[178, 31] dir=B>
+2 possible dirs.
+[182, 35] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[178, 35] from_pos=[178, 31] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4652 processed.
+process <TPoint pos=[182, 35] from_pos=[178, 35] dir=R>
+2 possible dirs.
+[182, 39] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[182, 35] from_pos=[178, 35] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4653 processed.
+process <TPoint pos=[182, 39] from_pos=[182, 35] dir=B>
+2 possible dirs.
+[186, 39] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[182, 39] from_pos=[182, 35] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4654 processed.
+process <TPoint pos=[186, 39] from_pos=[182, 39] dir=R>
+2 possible dirs.
+[186, 43] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[186, 39] from_pos=[182, 39] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4655 processed.
+process <TPoint pos=[186, 43] from_pos=[186, 39] dir=B>
+2 possible dirs.
+[182, 43] -> ['L', 'R'] from L
+[178, 43] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[186, 43] from_pos=[186, 39] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4656 processed.
+process <TPoint pos=[178, 43] from_pos=[186, 43] dir=L>
+2 possible dirs.
+[178, 39] -> ['B'] from T
+** Done processing <TPoint pos=[178, 43] from_pos=[186, 43] dir=L>. 0 key positi
+ons found.
+next () -> 34 in queue. 4657 processed.
+process <TPoint pos=[166, 59] from_pos=[162, 59] dir=R>
+3 possible dirs.
+[166, 63] -> ['T', 'L', 'R'] from B
+[170, 59] -> ['L', 'R'] from R
+[174, 59] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[166, 59] from_pos=[162, 59] dir=R>. 2 key positi
+ons found.
+next () -> 34 in queue. 4658 processed.
+process <TPoint pos=[166, 63] from_pos=[166, 59] dir=B>
+3 possible dirs.
+[162, 63] -> ['L', 'R'] from L
+[158, 63] -> ['T', 'R'] from L
+[170, 63] -> ['L', 'R'] from R
+[174, 63] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[166, 63] from_pos=[166, 59] dir=B>. 2 key positi
+ons found.
+next () -> 35 in queue. 4659 processed.
+process <TPoint pos=[174, 63] from_pos=[166, 63] dir=R>
+2 possible dirs.
+[174, 67] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[174, 63] from_pos=[166, 63] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4660 processed.
+process <TPoint pos=[174, 67] from_pos=[174, 63] dir=B>
+2 possible dirs.
+[170, 67] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[174, 67] from_pos=[174, 63] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4661 processed.
+process <TPoint pos=[170, 67] from_pos=[174, 67] dir=L>
+2 possible dirs.
+[170, 71] -> ['T', 'B', 'R'] from B
+[170, 75] -> ['T'] from B
+** Done processing <TPoint pos=[170, 67] from_pos=[174, 67] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4662 processed.
+process <TPoint pos=[170, 71] from_pos=[170, 67] dir=B>
+3 possible dirs.
+[170, 75] -> ['T'] from B
+[174, 71] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[170, 71] from_pos=[170, 67] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4663 processed.
+process <TPoint pos=[174, 71] from_pos=[170, 71] dir=R>
+2 possible dirs.
+[174, 75] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[174, 71] from_pos=[170, 71] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4664 processed.
+process <TPoint pos=[174, 75] from_pos=[174, 71] dir=B>
+2 possible dirs.
+[178, 75] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[174, 75] from_pos=[174, 71] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4665 processed.
+process <TPoint pos=[178, 75] from_pos=[174, 75] dir=R>
+2 possible dirs.
+[178, 71] -> ['T', 'B'] from T
+[178, 67] -> ['T', 'B'] from T
+[178, 63] -> ['T', 'B'] from T
+[178, 59] -> ['T', 'B'] from T
+[178, 55] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[178, 75] from_pos=[174, 75] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4666 processed.
+process <TPoint pos=[178, 55] from_pos=[178, 75] dir=T>
+2 possible dirs.
+[182, 55] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[178, 55] from_pos=[178, 75] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4667 processed.
+process <TPoint pos=[182, 55] from_pos=[178, 55] dir=R>
+2 possible dirs.
+[182, 59] -> ['T', 'B'] from B
+[182, 63] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[182, 55] from_pos=[178, 55] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4668 processed.
+process <TPoint pos=[182, 63] from_pos=[182, 55] dir=B>
+2 possible dirs.
+[186, 63] -> ['L', 'R'] from R
+[190, 63] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[182, 63] from_pos=[182, 55] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4669 processed.
+process <TPoint pos=[190, 63] from_pos=[182, 63] dir=R>
+2 possible dirs.
+[190, 59] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[190, 63] from_pos=[182, 63] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4670 processed.
+process <TPoint pos=[190, 59] from_pos=[190, 63] dir=T>
+2 possible dirs.
+[194, 59] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[190, 59] from_pos=[190, 63] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4671 processed.
+process <TPoint pos=[194, 59] from_pos=[190, 59] dir=R>
+2 possible dirs.
+[194, 63] -> ['T', 'B'] from B
+[194, 67] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[194, 59] from_pos=[190, 59] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4672 processed.
+process <TPoint pos=[194, 67] from_pos=[194, 59] dir=B>
+2 possible dirs.
+[190, 67] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[194, 67] from_pos=[194, 59] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4673 processed.
+process <TPoint pos=[190, 67] from_pos=[194, 67] dir=L>
+2 possible dirs.
+[190, 71] -> ['T', 'B'] from B
+[190, 75] -> ['T', 'L', 'R'] from B
+** Done processing <TPoint pos=[190, 67] from_pos=[194, 67] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4674 processed.
+process <TPoint pos=[190, 75] from_pos=[190, 67] dir=B>
+3 possible dirs.
+[186, 75] -> ['R'] from L
+[194, 75] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[190, 75] from_pos=[190, 67] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4675 processed.
+process <TPoint pos=[194, 75] from_pos=[190, 75] dir=R>
+2 possible dirs.
+[194, 79] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[194, 75] from_pos=[190, 75] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4676 processed.
+process <TPoint pos=[194, 79] from_pos=[194, 75] dir=B>
+2 possible dirs.
+[190, 79] -> ['L', 'R'] from L
+[186, 79] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[194, 79] from_pos=[194, 75] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4677 processed.
+process <TPoint pos=[186, 79] from_pos=[194, 79] dir=L>
+2 possible dirs.
+[186, 83] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[186, 79] from_pos=[194, 79] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4678 processed.
+process <TPoint pos=[186, 83] from_pos=[186, 79] dir=B>
+2 possible dirs.
+[182, 83] -> ['L', 'R'] from L
+[178, 83] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[186, 83] from_pos=[186, 79] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4679 processed.
+process <TPoint pos=[178, 83] from_pos=[186, 83] dir=L>
+2 possible dirs.
+[178, 87] -> ['T', 'B', 'L'] from B
+[178, 91] -> ['T'] from B
+** Done processing <TPoint pos=[178, 83] from_pos=[186, 83] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4680 processed.
+process <TPoint pos=[178, 87] from_pos=[178, 83] dir=B>
+3 possible dirs.
+[178, 91] -> ['T'] from B
+[174, 87] -> ['R'] from L
+** Done processing <TPoint pos=[178, 87] from_pos=[178, 83] dir=B>. 0 key positi
+ons found.
+next () -> 34 in queue. 4681 processed.
+process <TPoint pos=[158, 63] from_pos=[166, 63] dir=L>
+2 possible dirs.
+[158, 59] -> ['B'] from T
+** Done processing <TPoint pos=[158, 63] from_pos=[166, 63] dir=L>. 0 key positi
+ons found.
+next () -> 33 in queue. 4682 processed.
+process <TPoint pos=[150, 83] from_pos=[150, 87] dir=T>
+3 possible dirs.
+[150, 79] -> ['B', 'R'] from T
+[154, 83] -> ['L', 'R'] from R
+[158, 83] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[150, 83] from_pos=[150, 87] dir=T>. 2 key positi
+ons found.
+next () -> 33 in queue. 4683 processed.
+process <TPoint pos=[158, 83] from_pos=[150, 83] dir=R>
+2 possible dirs.
+[158, 79] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[158, 83] from_pos=[150, 83] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4684 processed.
+process <TPoint pos=[158, 79] from_pos=[158, 83] dir=T>
+2 possible dirs.
+[162, 79] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[158, 79] from_pos=[158, 83] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4685 processed.
+process <TPoint pos=[162, 79] from_pos=[158, 79] dir=R>
+2 possible dirs.
+[162, 83] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[162, 79] from_pos=[158, 79] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4686 processed.
+process <TPoint pos=[162, 83] from_pos=[162, 79] dir=B>
+2 possible dirs.
+[166, 83] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[162, 83] from_pos=[162, 79] dir=B>. 1 key positi
+ons found.
+next () -> 33 in queue. 4687 processed.
+process <TPoint pos=[166, 83] from_pos=[162, 83] dir=R>
+2 possible dirs.
+[166, 87] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[166, 83] from_pos=[162, 83] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4688 processed.
+process <TPoint pos=[166, 87] from_pos=[166, 83] dir=B>
+2 possible dirs.
+[170, 87] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[166, 87] from_pos=[166, 83] dir=B>. 1 key positi
+ons found.
+next () -> 33 in queue. 4689 processed.
+process <TPoint pos=[170, 87] from_pos=[166, 87] dir=R>
+2 possible dirs.
+[170, 91] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[170, 87] from_pos=[166, 87] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4690 processed.
+process <TPoint pos=[170, 91] from_pos=[170, 87] dir=B>
+2 possible dirs.
+[174, 91] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[170, 91] from_pos=[170, 87] dir=B>. 1 key positi
+ons found.
+next () -> 33 in queue. 4691 processed.
+process <TPoint pos=[174, 91] from_pos=[170, 91] dir=R>
+2 possible dirs.
+[174, 95] -> ['T', 'L', 'R'] from B
+** Done processing <TPoint pos=[174, 91] from_pos=[170, 91] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4692 processed.
+process <TPoint pos=[174, 95] from_pos=[174, 91] dir=B>
+3 possible dirs.
+[170, 95] -> ['L', 'R'] from L
+[166, 95] -> ['T', 'R'] from L
+[178, 95] -> ['L', 'R'] from R
+[182, 95] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[174, 95] from_pos=[174, 91] dir=B>. 2 key positi
+ons found.
+next () -> 34 in queue. 4693 processed.
+process <TPoint pos=[182, 95] from_pos=[174, 95] dir=R>
+2 possible dirs.
+[182, 99] -> ['T', 'B'] from B
+[182, 103] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[182, 95] from_pos=[174, 95] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4694 processed.
+process <TPoint pos=[182, 103] from_pos=[182, 95] dir=B>
+2 possible dirs.
+[186, 103] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[182, 103] from_pos=[182, 95] dir=B>. 1 key posit
+ions found.
+next () -> 34 in queue. 4695 processed.
+process <TPoint pos=[186, 103] from_pos=[182, 103] dir=R>
+2 possible dirs.
+[186, 99] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[186, 103] from_pos=[182, 103] dir=R>. 1 key posi
+tions found.
+next () -> 34 in queue. 4696 processed.
+process <TPoint pos=[186, 99] from_pos=[186, 103] dir=T>
+2 possible dirs.
+[190, 99] -> ['L', 'R'] from R
+[194, 99] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[186, 99] from_pos=[186, 103] dir=T>. 1 key posit
+ions found.
+next () -> 34 in queue. 4697 processed.
+process <TPoint pos=[194, 99] from_pos=[186, 99] dir=R>
+2 possible dirs.
+[194, 95] -> ['T', 'B'] from T
+[194, 91] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[194, 99] from_pos=[186, 99] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4698 processed.
+process <TPoint pos=[194, 91] from_pos=[194, 99] dir=T>
+2 possible dirs.
+[190, 91] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[194, 91] from_pos=[194, 99] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4699 processed.
+process <TPoint pos=[190, 91] from_pos=[194, 91] dir=L>
+2 possible dirs.
+[190, 95] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[190, 91] from_pos=[194, 91] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4700 processed.
+process <TPoint pos=[190, 95] from_pos=[190, 91] dir=B>
+2 possible dirs.
+[186, 95] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[190, 95] from_pos=[190, 91] dir=B>. 1 key positi
+ons found.
+next () -> 34 in queue. 4701 processed.
+process <TPoint pos=[186, 95] from_pos=[190, 95] dir=L>
+2 possible dirs.
+[186, 91] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[186, 95] from_pos=[190, 95] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4702 processed.
+process <TPoint pos=[186, 91] from_pos=[186, 95] dir=T>
+2 possible dirs.
+[182, 91] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[186, 91] from_pos=[186, 95] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4703 processed.
+process <TPoint pos=[182, 91] from_pos=[186, 91] dir=L>
+2 possible dirs.
+[182, 87] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[182, 91] from_pos=[186, 91] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4704 processed.
+process <TPoint pos=[182, 87] from_pos=[182, 91] dir=T>
+2 possible dirs.
+[186, 87] -> ['L', 'R'] from R
+[190, 87] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[182, 87] from_pos=[182, 91] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4705 processed.
+process <TPoint pos=[190, 87] from_pos=[182, 87] dir=R>
+2 possible dirs.
+[190, 83] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[190, 87] from_pos=[182, 87] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4706 processed.
+process <TPoint pos=[190, 83] from_pos=[190, 87] dir=T>
+2 possible dirs.
+[194, 83] -> ['B', 'L', 'R'] from R
+[198, 83] -> ['L', 'R'] from R
+[202, 83] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[190, 83] from_pos=[190, 87] dir=T>. 2 key positi
+ons found.
+next () -> 35 in queue. 4707 processed.
+process <TPoint pos=[202, 83] from_pos=[190, 83] dir=R>
+2 possible dirs.
+[202, 87] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[202, 83] from_pos=[190, 83] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4708 processed.
+process <TPoint pos=[202, 87] from_pos=[202, 83] dir=B>
+2 possible dirs.
+[206, 87] -> ['L', 'R'] from R
+[210, 87] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[202, 87] from_pos=[202, 83] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4709 processed.
+process <TPoint pos=[210, 87] from_pos=[202, 87] dir=R>
+2 possible dirs.
+[210, 83] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[210, 87] from_pos=[202, 87] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4710 processed.
+process <TPoint pos=[210, 83] from_pos=[210, 87] dir=T>
+2 possible dirs.
+[206, 83] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[210, 83] from_pos=[210, 87] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4711 processed.
+process <TPoint pos=[206, 83] from_pos=[210, 83] dir=L>
+2 possible dirs.
+[206, 79] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[206, 83] from_pos=[210, 83] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4712 processed.
+process <TPoint pos=[206, 79] from_pos=[206, 83] dir=T>
+2 possible dirs.
+[202, 79] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[206, 79] from_pos=[206, 83] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4713 processed.
+process <TPoint pos=[202, 79] from_pos=[206, 79] dir=L>
+2 possible dirs.
+[202, 75] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[202, 79] from_pos=[206, 79] dir=L>. 1 key positi
+ons found.
+next () -> 35 in queue. 4714 processed.
+process <TPoint pos=[202, 75] from_pos=[202, 79] dir=T>
+2 possible dirs.
+[198, 75] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[202, 75] from_pos=[202, 79] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4715 processed.
+process <TPoint pos=[198, 75] from_pos=[202, 75] dir=L>
+2 possible dirs.
+[198, 79] -> ['T'] from B
+** Done processing <TPoint pos=[198, 75] from_pos=[202, 75] dir=L>. 0 key positi
+ons found.
+next () -> 34 in queue. 4716 processed.
+process <TPoint pos=[194, 83] from_pos=[190, 83] dir=R>
+3 possible dirs.
+[194, 87] -> ['T', 'R'] from B
+[198, 83] -> ['L', 'R'] from R
+[202, 83] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[194, 83] from_pos=[190, 83] dir=R>. 2 key positi
+ons found.
+next () -> 34 in queue. 4717 processed.
+process <TPoint pos=[194, 87] from_pos=[194, 83] dir=B>
+2 possible dirs.
+[198, 87] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[194, 87] from_pos=[194, 83] dir=B>. 1 key positi
+ons found.
+next () -> 34 in queue. 4718 processed.
+process <TPoint pos=[198, 87] from_pos=[194, 87] dir=R>
+2 possible dirs.
+[198, 91] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[198, 87] from_pos=[194, 87] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4719 processed.
+process <TPoint pos=[198, 91] from_pos=[198, 87] dir=B>
+2 possible dirs.
+[202, 91] -> ['B', 'L', 'R'] from R
+[206, 91] -> ['L', 'R'] from R
+[210, 91] -> ['L', 'R'] from R
+[214, 91] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[198, 91] from_pos=[198, 87] dir=B>. 2 key positi
+ons found.
+next () -> 35 in queue. 4720 processed.
+process <TPoint pos=[214, 91] from_pos=[198, 91] dir=R>
+2 possible dirs.
+[214, 87] -> ['T', 'B'] from T
+[214, 83] -> ['B'] from T
+** Done processing <TPoint pos=[214, 91] from_pos=[198, 91] dir=R>. 0 key positi
+ons found.
+next () -> 34 in queue. 4721 processed.
+process <TPoint pos=[202, 91] from_pos=[198, 91] dir=R>
+3 possible dirs.
+[202, 95] -> ['T', 'L', 'R'] from B
+[206, 91] -> ['L', 'R'] from R
+[210, 91] -> ['L', 'R'] from R
+[214, 91] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[202, 91] from_pos=[198, 91] dir=R>. 2 key positi
+ons found.
+next () -> 34 in queue. 4722 processed.
+process <TPoint pos=[202, 95] from_pos=[202, 91] dir=B>
+3 possible dirs.
+[198, 95] -> ['R'] from L
+[206, 95] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[202, 95] from_pos=[202, 91] dir=B>. 1 key positi
+ons found.
+next () -> 34 in queue. 4723 processed.
+process <TPoint pos=[206, 95] from_pos=[202, 95] dir=R>
+2 possible dirs.
+[206, 99] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[206, 95] from_pos=[202, 95] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4724 processed.
+process <TPoint pos=[206, 99] from_pos=[206, 95] dir=B>
+2 possible dirs.
+[202, 99] -> ['L', 'R'] from L
+[198, 99] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[206, 99] from_pos=[206, 95] dir=B>. 1 key positi
+ons found.
+next () -> 34 in queue. 4725 processed.
+process <TPoint pos=[198, 99] from_pos=[206, 99] dir=L>
+2 possible dirs.
+[198, 103] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[198, 99] from_pos=[206, 99] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4726 processed.
+process <TPoint pos=[198, 103] from_pos=[198, 99] dir=B>
+2 possible dirs.
+[194, 103] -> ['B', 'L', 'R'] from L
+[190, 103] -> ['R'] from L
+** Done processing <TPoint pos=[198, 103] from_pos=[198, 99] dir=B>. 1 key posit
+ions found.
+next () -> 34 in queue. 4727 processed.
+process <TPoint pos=[194, 103] from_pos=[198, 103] dir=L>
+3 possible dirs.
+[194, 107] -> ['T', 'B'] from B
+[194, 111] -> ['T', 'L'] from B
+[190, 103] -> ['R'] from L
+** Done processing <TPoint pos=[194, 103] from_pos=[198, 103] dir=L>. 1 key posi
+tions found.
+next () -> 34 in queue. 4728 processed.
+process <TPoint pos=[194, 111] from_pos=[194, 103] dir=B>
+2 possible dirs.
+[190, 111] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[194, 111] from_pos=[194, 103] dir=B>. 1 key posi
+tions found.
+next () -> 34 in queue. 4729 processed.
+process <TPoint pos=[190, 111] from_pos=[194, 111] dir=L>
+2 possible dirs.
+[190, 107] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[190, 111] from_pos=[194, 111] dir=L>. 1 key posi
+tions found.
+next () -> 34 in queue. 4730 processed.
+process <TPoint pos=[190, 107] from_pos=[190, 111] dir=T>
+2 possible dirs.
+[186, 107] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[190, 107] from_pos=[190, 111] dir=T>. 1 key posi
+tions found.
+next () -> 34 in queue. 4731 processed.
+process <TPoint pos=[186, 107] from_pos=[190, 107] dir=L>
+2 possible dirs.
+[186, 111] -> ['T', 'B'] from B
+[186, 115] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[186, 107] from_pos=[190, 107] dir=L>. 1 key posi
+tions found.
+next () -> 34 in queue. 4732 processed.
+process <TPoint pos=[186, 115] from_pos=[186, 107] dir=B>
+2 possible dirs.
+[190, 115] -> ['L'] from R
+** Done processing <TPoint pos=[186, 115] from_pos=[186, 107] dir=B>. 0 key posi
+tions found.
+next () -> 33 in queue. 4733 processed.
+process <TPoint pos=[166, 95] from_pos=[174, 95] dir=L>
+2 possible dirs.
+[166, 91] -> ['B'] from T
+** Done processing <TPoint pos=[166, 95] from_pos=[174, 95] dir=L>. 0 key positi
+ons found.
+next () -> 32 in queue. 4734 processed.
+process <TPoint pos=[154, 135] from_pos=[166, 135] dir=L>
+2 possible dirs.
+[154, 131] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[154, 135] from_pos=[166, 135] dir=L>. 1 key posi
+tions found.
+next () -> 32 in queue. 4735 processed.
+process <TPoint pos=[154, 131] from_pos=[154, 135] dir=T>
+2 possible dirs.
+[158, 131] -> ['L'] from R
+** Done processing <TPoint pos=[154, 131] from_pos=[154, 135] dir=T>. 0 key posi
+tions found.
+next () -> 31 in queue. 4736 processed.
+process <TPoint pos=[166, 139] from_pos=[166, 143] dir=T>
+3 possible dirs.
+[166, 135] -> ['B', 'L', 'R'] from T
+[162, 139] -> ['L', 'R'] from L
+[158, 139] -> ['L', 'R'] from L
+[154, 139] -> ['L', 'R'] from L
+[150, 139] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[166, 139] from_pos=[166, 143] dir=T>. 2 key posi
+tions found.
+next () -> 31 in queue. 4737 processed.
+process <TPoint pos=[150, 139] from_pos=[166, 139] dir=L>
+2 possible dirs.
+[150, 135] -> ['T', 'B'] from T
+[150, 131] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[150, 139] from_pos=[166, 139] dir=L>. 1 key posi
+tions found.
+next () -> 31 in queue. 4738 processed.
+process <TPoint pos=[150, 131] from_pos=[150, 139] dir=T>
+2 possible dirs.
+[146, 131] -> ['R'] from L
+** Done processing <TPoint pos=[150, 131] from_pos=[150, 139] dir=T>. 0 key posi
+tions found.
+next () -> 30 in queue. 4739 processed.
+process <TPoint pos=[154, 143] from_pos=[158, 143] dir=L>
+2 possible dirs.
+[154, 147] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[154, 143] from_pos=[158, 143] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4740 processed.
+process <TPoint pos=[154, 147] from_pos=[154, 143] dir=B>
+2 possible dirs.
+[150, 147] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[154, 147] from_pos=[154, 143] dir=B>. 1 key posi
+tions found.
+next () -> 30 in queue. 4741 processed.
+process <TPoint pos=[150, 147] from_pos=[154, 147] dir=L>
+2 possible dirs.
+[150, 143] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[150, 147] from_pos=[154, 147] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4742 processed.
+process <TPoint pos=[150, 143] from_pos=[150, 147] dir=T>
+2 possible dirs.
+[146, 143] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[150, 143] from_pos=[150, 147] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4743 processed.
+process <TPoint pos=[146, 143] from_pos=[150, 143] dir=L>
+2 possible dirs.
+[146, 139] -> ['T', 'B'] from T
+[146, 135] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[146, 143] from_pos=[150, 143] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4744 processed.
+process <TPoint pos=[146, 135] from_pos=[146, 143] dir=T>
+2 possible dirs.
+[142, 135] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[146, 135] from_pos=[146, 143] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4745 processed.
+process <TPoint pos=[142, 135] from_pos=[146, 135] dir=L>
+2 possible dirs.
+[142, 131] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[142, 135] from_pos=[146, 135] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4746 processed.
+process <TPoint pos=[142, 131] from_pos=[142, 135] dir=T>
+2 possible dirs.
+[138, 131] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[142, 131] from_pos=[142, 135] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4747 processed.
+process <TPoint pos=[138, 131] from_pos=[142, 131] dir=L>
+2 possible dirs.
+[138, 127] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[138, 131] from_pos=[142, 131] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4748 processed.
+process <TPoint pos=[138, 127] from_pos=[138, 131] dir=T>
+2 possible dirs.
+[134, 127] -> ['T', 'B', 'R'] from L
+** Done processing <TPoint pos=[138, 127] from_pos=[138, 131] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4749 processed.
+process <TPoint pos=[134, 127] from_pos=[138, 127] dir=L>
+3 possible dirs.
+[134, 123] -> ['B', 'R'] from T
+[134, 131] -> ['T', 'B'] from B
+[134, 135] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[134, 127] from_pos=[138, 127] dir=L>. 2 key posi
+tions found.
+next () -> 31 in queue. 4750 processed.
+process <TPoint pos=[134, 135] from_pos=[134, 127] dir=B>
+2 possible dirs.
+[130, 135] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[134, 135] from_pos=[134, 127] dir=B>. 1 key posi
+tions found.
+next () -> 31 in queue. 4751 processed.
+process <TPoint pos=[130, 135] from_pos=[134, 135] dir=L>
+2 possible dirs.
+[130, 139] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[130, 135] from_pos=[134, 135] dir=L>. 1 key posi
+tions found.
+next () -> 31 in queue. 4752 processed.
+process <TPoint pos=[130, 139] from_pos=[130, 135] dir=B>
+2 possible dirs.
+[134, 139] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[130, 139] from_pos=[130, 135] dir=B>. 1 key posi
+tions found.
+next () -> 31 in queue. 4753 processed.
+process <TPoint pos=[134, 139] from_pos=[130, 139] dir=R>
+2 possible dirs.
+[134, 143] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[134, 139] from_pos=[130, 139] dir=R>. 1 key posi
+tions found.
+next () -> 31 in queue. 4754 processed.
+process <TPoint pos=[134, 143] from_pos=[134, 139] dir=B>
+2 possible dirs.
+[138, 143] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[134, 143] from_pos=[134, 139] dir=B>. 1 key posi
+tions found.
+next () -> 31 in queue. 4755 processed.
+process <TPoint pos=[138, 143] from_pos=[134, 143] dir=R>
+2 possible dirs.
+[138, 139] -> ['T', 'B'] from T
+[138, 135] -> ['B'] from T
+** Done processing <TPoint pos=[138, 143] from_pos=[134, 143] dir=R>. 0 key posi
+tions found.
+next () -> 30 in queue. 4756 processed.
+process <TPoint pos=[134, 123] from_pos=[134, 127] dir=T>
+2 possible dirs.
+[138, 123] -> ['L', 'R'] from R
+[142, 123] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[134, 123] from_pos=[134, 127] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4757 processed.
+process <TPoint pos=[142, 123] from_pos=[134, 123] dir=R>
+2 possible dirs.
+[142, 119] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[142, 123] from_pos=[134, 123] dir=R>. 1 key posi
+tions found.
+next () -> 30 in queue. 4758 processed.
+process <TPoint pos=[142, 119] from_pos=[142, 123] dir=T>
+2 possible dirs.
+[146, 119] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[142, 119] from_pos=[142, 123] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4759 processed.
+process <TPoint pos=[146, 119] from_pos=[142, 119] dir=R>
+2 possible dirs.
+[146, 115] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[146, 119] from_pos=[142, 119] dir=R>. 1 key posi
+tions found.
+next () -> 30 in queue. 4760 processed.
+process <TPoint pos=[146, 115] from_pos=[146, 119] dir=T>
+2 possible dirs.
+[142, 115] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[146, 115] from_pos=[146, 119] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4761 processed.
+process <TPoint pos=[142, 115] from_pos=[146, 115] dir=L>
+2 possible dirs.
+[142, 111] -> ['T', 'B'] from T
+[142, 107] -> ['T', 'B'] from T
+[142, 103] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[142, 115] from_pos=[146, 115] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4762 processed.
+process <TPoint pos=[142, 103] from_pos=[142, 115] dir=T>
+2 possible dirs.
+[138, 103] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[142, 103] from_pos=[142, 115] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4763 processed.
+process <TPoint pos=[138, 103] from_pos=[142, 103] dir=L>
+2 possible dirs.
+[138, 107] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[138, 103] from_pos=[142, 103] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4764 processed.
+process <TPoint pos=[138, 107] from_pos=[138, 103] dir=B>
+2 possible dirs.
+[134, 107] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[138, 107] from_pos=[138, 103] dir=B>. 1 key posi
+tions found.
+next () -> 30 in queue. 4765 processed.
+process <TPoint pos=[134, 107] from_pos=[138, 107] dir=L>
+2 possible dirs.
+[134, 103] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[134, 107] from_pos=[138, 107] dir=L>. 1 key posi
+tions found.
+next () -> 30 in queue. 4766 processed.
+process <TPoint pos=[134, 103] from_pos=[134, 107] dir=T>
+2 possible dirs.
+[130, 103] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[134, 103] from_pos=[134, 107] dir=T>. 1 key posi
+tions found.
+next () -> 30 in queue. 4767 processed.
+process <TPoint pos=[130, 103] from_pos=[134, 103] dir=L>
+2 possible dirs.
+[130, 99] -> ['T', 'B', 'R'] from T
+[130, 95] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[130, 103] from_pos=[134, 103] dir=L>. 2 key posi
+tions found.
+next () -> 31 in queue. 4768 processed.
+process <TPoint pos=[130, 95] from_pos=[130, 103] dir=T>
+2 possible dirs.
+[134, 95] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[130, 95] from_pos=[130, 103] dir=T>. 1 key posit
+ions found.
+next () -> 31 in queue. 4769 processed.
+process <TPoint pos=[134, 95] from_pos=[130, 95] dir=R>
+2 possible dirs.
+[134, 91] -> ['T', 'B'] from T
+[134, 87] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[134, 95] from_pos=[130, 95] dir=R>. 1 key positi
+ons found.
+next () -> 31 in queue. 4770 processed.
+process <TPoint pos=[134, 87] from_pos=[134, 95] dir=T>
+2 possible dirs.
+[138, 87] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[134, 87] from_pos=[134, 95] dir=T>. 1 key positi
+ons found.
+next () -> 31 in queue. 4771 processed.
+process <TPoint pos=[138, 87] from_pos=[134, 87] dir=R>
+2 possible dirs.
+[138, 83] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[138, 87] from_pos=[134, 87] dir=R>. 1 key positi
+ons found.
+next () -> 31 in queue. 4772 processed.
+process <TPoint pos=[138, 83] from_pos=[138, 87] dir=T>
+2 possible dirs.
+[134, 83] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[138, 83] from_pos=[138, 87] dir=T>. 1 key positi
+ons found.
+next () -> 31 in queue. 4773 processed.
+process <TPoint pos=[134, 83] from_pos=[138, 83] dir=L>
+2 possible dirs.
+[134, 79] -> ['T', 'B'] from T
+[134, 75] -> ['T', 'B'] from T
+[134, 71] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[134, 83] from_pos=[138, 83] dir=L>. 1 key positi
+ons found.
+next () -> 31 in queue. 4774 processed.
+process <TPoint pos=[134, 71] from_pos=[134, 83] dir=T>
+2 possible dirs.
+[130, 71] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[134, 71] from_pos=[134, 83] dir=T>. 1 key positi
+ons found.
+next () -> 31 in queue. 4775 processed.
+process <TPoint pos=[130, 71] from_pos=[134, 71] dir=L>
+2 possible dirs.
+[130, 75] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[130, 71] from_pos=[134, 71] dir=L>. 1 key positi
+ons found.
+next () -> 31 in queue. 4776 processed.
+process <TPoint pos=[130, 75] from_pos=[130, 71] dir=B>
+2 possible dirs.
+[126, 75] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[130, 75] from_pos=[130, 71] dir=B>. 1 key positi
+ons found.
+next () -> 31 in queue. 4777 processed.
+process <TPoint pos=[126, 75] from_pos=[130, 75] dir=L>
+2 possible dirs.
+[126, 71] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[126, 75] from_pos=[130, 75] dir=L>. 1 key positi
+ons found.
+next () -> 31 in queue. 4778 processed.
+process <TPoint pos=[126, 71] from_pos=[126, 75] dir=T>
+2 possible dirs.
+[122, 71] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[126, 71] from_pos=[126, 75] dir=T>. 1 key positi
+ons found.
+next () -> 31 in queue. 4779 processed.
+process <TPoint pos=[122, 71] from_pos=[126, 71] dir=L>
+2 possible dirs.
+[122, 67] -> ['T', 'B', 'L', 'R'] from T
+[122, 63] -> ['T', 'B', 'R'] from T
+[122, 59] -> ['T', 'B'] from T
+[122, 55] -> ['T', 'B'] from T
+[122, 51] -> ['T', 'B'] from T
+[122, 47] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[122, 71] from_pos=[126, 71] dir=L>. 3 key positi
+ons found.
+next () -> 33 in queue. 4780 processed.
+process <TPoint pos=[122, 47] from_pos=[122, 71] dir=T>
+2 possible dirs.
+[118, 47] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[122, 47] from_pos=[122, 71] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4781 processed.
+process <TPoint pos=[118, 47] from_pos=[122, 47] dir=L>
+2 possible dirs.
+[118, 51] -> ['T'] from B
+** Done processing <TPoint pos=[118, 47] from_pos=[122, 47] dir=L>. 0 key positi
+ons found.
+next () -> 32 in queue. 4782 processed.
+process <TPoint pos=[122, 63] from_pos=[122, 71] dir=T>
+3 possible dirs.
+[122, 59] -> ['T', 'B'] from T
+[122, 55] -> ['T', 'B'] from T
+[122, 51] -> ['T', 'B'] from T
+[122, 47] -> ['B', 'L'] from T
+[126, 63] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[122, 63] from_pos=[122, 71] dir=T>. 2 key positi
+ons found.
+next () -> 32 in queue. 4783 processed.
+process <TPoint pos=[126, 63] from_pos=[122, 63] dir=R>
+2 possible dirs.
+[126, 59] -> ['T', 'B'] from T
+[126, 55] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[126, 63] from_pos=[122, 63] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4784 processed.
+process <TPoint pos=[126, 55] from_pos=[126, 63] dir=T>
+2 possible dirs.
+[130, 55] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[126, 55] from_pos=[126, 63] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4785 processed.
+process <TPoint pos=[130, 55] from_pos=[126, 55] dir=R>
+2 possible dirs.
+[130, 51] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[130, 55] from_pos=[126, 55] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4786 processed.
+process <TPoint pos=[130, 51] from_pos=[130, 55] dir=T>
+2 possible dirs.
+[126, 51] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[130, 51] from_pos=[130, 55] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4787 processed.
+process <TPoint pos=[126, 51] from_pos=[130, 51] dir=L>
+2 possible dirs.
+[126, 47] -> ['T', 'B'] from T
+[126, 43] -> ['T', 'B'] from T
+[126, 39] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[126, 51] from_pos=[130, 51] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4788 processed.
+process <TPoint pos=[126, 39] from_pos=[126, 51] dir=T>
+2 possible dirs.
+[122, 39] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[126, 39] from_pos=[126, 51] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4789 processed.
+process <TPoint pos=[122, 39] from_pos=[126, 39] dir=L>
+2 possible dirs.
+[122, 43] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[122, 39] from_pos=[126, 39] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4790 processed.
+process <TPoint pos=[122, 43] from_pos=[122, 39] dir=B>
+2 possible dirs.
+[118, 43] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[122, 43] from_pos=[122, 39] dir=B>. 1 key positi
+ons found.
+next () -> 32 in queue. 4791 processed.
+process <TPoint pos=[118, 43] from_pos=[122, 43] dir=L>
+2 possible dirs.
+[118, 39] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[118, 43] from_pos=[122, 43] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4792 processed.
+process <TPoint pos=[118, 39] from_pos=[118, 43] dir=T>
+2 possible dirs.
+[114, 39] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[118, 39] from_pos=[118, 43] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4793 processed.
+process <TPoint pos=[114, 39] from_pos=[118, 39] dir=L>
+2 possible dirs.
+[114, 35] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[114, 39] from_pos=[118, 39] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4794 processed.
+process <TPoint pos=[114, 35] from_pos=[114, 39] dir=T>
+2 possible dirs.
+[118, 35] -> ['L', 'R'] from R
+[122, 35] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[114, 35] from_pos=[114, 39] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4795 processed.
+process <TPoint pos=[122, 35] from_pos=[114, 35] dir=R>
+2 possible dirs.
+[122, 31] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[122, 35] from_pos=[114, 35] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4796 processed.
+process <TPoint pos=[122, 31] from_pos=[122, 35] dir=T>
+2 possible dirs.
+[126, 31] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[122, 31] from_pos=[122, 35] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4797 processed.
+process <TPoint pos=[126, 31] from_pos=[122, 31] dir=R>
+2 possible dirs.
+[126, 35] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[126, 31] from_pos=[122, 31] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4798 processed.
+process <TPoint pos=[126, 35] from_pos=[126, 31] dir=B>
+2 possible dirs.
+[130, 35] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[126, 35] from_pos=[126, 31] dir=B>. 1 key positi
+ons found.
+next () -> 32 in queue. 4799 processed.
+process <TPoint pos=[130, 35] from_pos=[126, 35] dir=R>
+2 possible dirs.
+[130, 39] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[130, 35] from_pos=[126, 35] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4800 processed.
+process <TPoint pos=[130, 39] from_pos=[130, 35] dir=B>
+2 possible dirs.
+[134, 39] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[130, 39] from_pos=[130, 35] dir=B>. 1 key positi
+ons found.
+next () -> 32 in queue. 4801 processed.
+process <TPoint pos=[134, 39] from_pos=[130, 39] dir=R>
+2 possible dirs.
+[134, 43] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[134, 39] from_pos=[130, 39] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4802 processed.
+process <TPoint pos=[134, 43] from_pos=[134, 39] dir=B>
+2 possible dirs.
+[138, 43] -> ['B', 'L', 'R'] from R
+[142, 43] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[134, 43] from_pos=[134, 39] dir=B>. 2 key positi
+ons found.
+next () -> 33 in queue. 4803 processed.
+process <TPoint pos=[142, 43] from_pos=[134, 43] dir=R>
+2 possible dirs.
+[142, 39] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[142, 43] from_pos=[134, 43] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4804 processed.
+process <TPoint pos=[142, 39] from_pos=[142, 43] dir=T>
+2 possible dirs.
+[138, 39] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[142, 39] from_pos=[142, 43] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4805 processed.
+process <TPoint pos=[138, 39] from_pos=[142, 39] dir=L>
+2 possible dirs.
+[138, 35] -> ['B', 'L', 'R'] from T
+** Done processing <TPoint pos=[138, 39] from_pos=[142, 39] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4806 processed.
+process <TPoint pos=[138, 35] from_pos=[138, 39] dir=T>
+3 possible dirs.
+[134, 35] -> ['R'] from L
+[142, 35] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[138, 35] from_pos=[138, 39] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4807 processed.
+process <TPoint pos=[142, 35] from_pos=[138, 35] dir=R>
+2 possible dirs.
+[142, 31] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[142, 35] from_pos=[138, 35] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4808 processed.
+process <TPoint pos=[142, 31] from_pos=[142, 35] dir=T>
+2 possible dirs.
+[138, 31] -> ['L', 'R'] from L
+[134, 31] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[142, 31] from_pos=[142, 35] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4809 processed.
+process <TPoint pos=[134, 31] from_pos=[142, 31] dir=L>
+2 possible dirs.
+[134, 27] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[134, 31] from_pos=[142, 31] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4810 processed.
+process <TPoint pos=[134, 27] from_pos=[134, 31] dir=T>
+2 possible dirs.
+[130, 27] -> ['B', 'L', 'R'] from L
+[126, 27] -> ['L', 'R'] from L
+[122, 27] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[134, 27] from_pos=[134, 31] dir=T>. 2 key positi
+ons found.
+next () -> 34 in queue. 4811 processed.
+process <TPoint pos=[122, 27] from_pos=[134, 27] dir=L>
+2 possible dirs.
+[122, 23] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[122, 27] from_pos=[134, 27] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4812 processed.
+process <TPoint pos=[122, 23] from_pos=[122, 27] dir=T>
+2 possible dirs.
+[126, 23] -> ['L', 'R'] from R
+[130, 23] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[122, 23] from_pos=[122, 27] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4813 processed.
+process <TPoint pos=[130, 23] from_pos=[122, 23] dir=R>
+2 possible dirs.
+[130, 19] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[130, 23] from_pos=[122, 23] dir=R>. 1 key positi
+ons found.
+next () -> 34 in queue. 4814 processed.
+process <TPoint pos=[130, 19] from_pos=[130, 23] dir=T>
+2 possible dirs.
+[126, 19] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[130, 19] from_pos=[130, 23] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4815 processed.
+process <TPoint pos=[126, 19] from_pos=[130, 19] dir=L>
+2 possible dirs.
+[126, 15] -> ['T', 'B'] from T
+[126, 11] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[126, 19] from_pos=[130, 19] dir=L>. 1 key positi
+ons found.
+next () -> 34 in queue. 4816 processed.
+process <TPoint pos=[126, 11] from_pos=[126, 19] dir=T>
+2 possible dirs.
+[130, 11] -> ['T', 'B', 'L'] from R
+** Done processing <TPoint pos=[126, 11] from_pos=[126, 19] dir=T>. 1 key positi
+ons found.
+next () -> 34 in queue. 4817 processed.
+process <TPoint pos=[130, 11] from_pos=[126, 11] dir=R>
+3 possible dirs.
+[130, 7] -> ['T', 'B'] from T
+[130, 3] -> ['B', 'R'] from T
+[130, 15] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[130, 11] from_pos=[126, 11] dir=R>. 2 key positi
+ons found.
+next () -> 35 in queue. 4818 processed.
+process <TPoint pos=[130, 15] from_pos=[130, 11] dir=B>
+2 possible dirs.
+[134, 15] -> ['L', 'R'] from R
+[138, 15] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[130, 15] from_pos=[130, 11] dir=B>. 1 key positi
+ons found.
+next () -> 35 in queue. 4819 processed.
+process <TPoint pos=[138, 15] from_pos=[130, 15] dir=R>
+2 possible dirs.
+[138, 11] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[138, 15] from_pos=[130, 15] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4820 processed.
+process <TPoint pos=[138, 11] from_pos=[138, 15] dir=T>
+2 possible dirs.
+[142, 11] -> ['L', 'R'] from R
+[146, 11] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[138, 11] from_pos=[138, 15] dir=T>. 1 key positi
+ons found.
+next () -> 35 in queue. 4821 processed.
+process <TPoint pos=[146, 11] from_pos=[138, 11] dir=R>
+2 possible dirs.
+[146, 7] -> ['T', 'B'] from T
+[146, 3] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[146, 11] from_pos=[138, 11] dir=R>. 1 key positi
+ons found.
+next () -> 35 in queue. 4822 processed.
+process <TPoint pos=[146, 3] from_pos=[146, 11] dir=T>
+2 possible dirs.
+[142, 3] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[146, 3] from_pos=[146, 11] dir=T>. 1 key positio
+ns found.
+next () -> 35 in queue. 4823 processed.
+process <TPoint pos=[142, 3] from_pos=[146, 3] dir=L>
+2 possible dirs.
+[142, 7] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[142, 3] from_pos=[146, 3] dir=L>. 1 key position
+s found.
+next () -> 35 in queue. 4824 processed.
+process <TPoint pos=[142, 7] from_pos=[142, 3] dir=B>
+2 possible dirs.
+[138, 7] -> ['L', 'R'] from L
+[134, 7] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[142, 7] from_pos=[142, 3] dir=B>. 1 key position
+s found.
+next () -> 35 in queue. 4825 processed.
+process <TPoint pos=[134, 7] from_pos=[142, 7] dir=L>
+2 possible dirs.
+[134, 11] -> ['T'] from B
+** Done processing <TPoint pos=[134, 7] from_pos=[142, 7] dir=L>. 0 key position
+s found.
+next () -> 34 in queue. 4826 processed.
+process <TPoint pos=[130, 3] from_pos=[130, 11] dir=T>
+2 possible dirs.
+[134, 3] -> ['L', 'R'] from R
+[138, 3] -> ['L'] from R
+** Done processing <TPoint pos=[130, 3] from_pos=[130, 11] dir=T>. 0 key positio
+ns found.
+next () -> 33 in queue. 4827 processed.
+process <TPoint pos=[130, 27] from_pos=[134, 27] dir=L>
+3 possible dirs.
+[130, 31] -> ['T'] from B
+[126, 27] -> ['L', 'R'] from L
+[122, 27] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[130, 27] from_pos=[134, 27] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4828 processed.
+process <TPoint pos=[138, 43] from_pos=[134, 43] dir=R>
+3 possible dirs.
+[138, 47] -> ['T', 'L'] from B
+[142, 43] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[138, 43] from_pos=[134, 43] dir=R>. 2 key positi
+ons found.
+next () -> 32 in queue. 4829 processed.
+process <TPoint pos=[138, 47] from_pos=[138, 43] dir=B>
+2 possible dirs.
+[134, 47] -> ['L', 'R'] from L
+[130, 47] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[138, 47] from_pos=[138, 43] dir=B>. 1 key positi
+ons found.
+next () -> 32 in queue. 4830 processed.
+process <TPoint pos=[130, 47] from_pos=[138, 47] dir=L>
+2 possible dirs.
+[130, 43] -> ['B'] from T
+** Done processing <TPoint pos=[130, 47] from_pos=[138, 47] dir=L>. 0 key positi
+ons found.
+next () -> 31 in queue. 4831 processed.
+process <TPoint pos=[122, 67] from_pos=[122, 71] dir=T>
+4 possible dirs.
+[122, 63] -> ['T', 'B', 'R'] from T
+[122, 59] -> ['T', 'B'] from T
+[122, 55] -> ['T', 'B'] from T
+[122, 51] -> ['T', 'B'] from T
+[122, 47] -> ['B', 'L'] from T
+[118, 67] -> ['T', 'R'] from L
+[126, 67] -> ['L', 'R'] from R
+[130, 67] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[122, 67] from_pos=[122, 71] dir=T>. 4 key positi
+ons found.
+next () -> 32 in queue. 4832 processed.
+process <TPoint pos=[130, 67] from_pos=[122, 67] dir=R>
+2 possible dirs.
+[130, 63] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[130, 67] from_pos=[122, 67] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4833 processed.
+process <TPoint pos=[130, 63] from_pos=[130, 67] dir=T>
+2 possible dirs.
+[134, 63] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[130, 63] from_pos=[130, 67] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4834 processed.
+process <TPoint pos=[134, 63] from_pos=[130, 63] dir=R>
+2 possible dirs.
+[134, 67] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[134, 63] from_pos=[130, 63] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4835 processed.
+process <TPoint pos=[134, 67] from_pos=[134, 63] dir=B>
+2 possible dirs.
+[138, 67] -> ['T', 'B', 'L'] from R
+** Done processing <TPoint pos=[134, 67] from_pos=[134, 63] dir=B>. 1 key positi
+ons found.
+next () -> 32 in queue. 4836 processed.
+process <TPoint pos=[138, 67] from_pos=[134, 67] dir=R>
+3 possible dirs.
+[138, 63] -> ['B'] from T
+[138, 71] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[138, 67] from_pos=[134, 67] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4837 processed.
+process <TPoint pos=[138, 71] from_pos=[138, 67] dir=B>
+2 possible dirs.
+[142, 71] -> ['T', 'B', 'L'] from R
+** Done processing <TPoint pos=[138, 71] from_pos=[138, 67] dir=B>. 1 key positi
+ons found.
+next () -> 32 in queue. 4838 processed.
+process <TPoint pos=[142, 71] from_pos=[138, 71] dir=R>
+3 possible dirs.
+[142, 67] -> ['B'] from T
+[142, 75] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[142, 71] from_pos=[138, 71] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4839 processed.
+process <TPoint pos=[142, 75] from_pos=[142, 71] dir=B>
+2 possible dirs.
+[146, 75] -> ['B', 'L', 'R'] from R
+[150, 75] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[142, 75] from_pos=[142, 71] dir=B>. 2 key positi
+ons found.
+next () -> 33 in queue. 4840 processed.
+process <TPoint pos=[150, 75] from_pos=[142, 75] dir=R>
+2 possible dirs.
+[150, 71] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[150, 75] from_pos=[142, 75] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4841 processed.
+process <TPoint pos=[150, 71] from_pos=[150, 75] dir=T>
+2 possible dirs.
+[146, 71] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[150, 71] from_pos=[150, 75] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4842 processed.
+process <TPoint pos=[146, 71] from_pos=[150, 71] dir=L>
+2 possible dirs.
+[146, 67] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[146, 71] from_pos=[150, 71] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4843 processed.
+process <TPoint pos=[146, 67] from_pos=[146, 71] dir=T>
+2 possible dirs.
+[150, 67] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[146, 67] from_pos=[146, 71] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4844 processed.
+process <TPoint pos=[150, 67] from_pos=[146, 67] dir=R>
+2 possible dirs.
+[150, 63] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[150, 67] from_pos=[146, 67] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4845 processed.
+process <TPoint pos=[150, 63] from_pos=[150, 67] dir=T>
+2 possible dirs.
+[146, 63] -> ['L', 'R'] from L
+[142, 63] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[150, 63] from_pos=[150, 67] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4846 processed.
+process <TPoint pos=[142, 63] from_pos=[150, 63] dir=L>
+2 possible dirs.
+[142, 59] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[142, 63] from_pos=[150, 63] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4847 processed.
+process <TPoint pos=[142, 59] from_pos=[142, 63] dir=T>
+2 possible dirs.
+[138, 59] -> ['L', 'R'] from L
+[134, 59] -> ['L', 'R'] from L
+[130, 59] -> ['R'] from L
+** Done processing <TPoint pos=[142, 59] from_pos=[142, 63] dir=T>. 0 key positi
+ons found.
+next () -> 32 in queue. 4848 processed.
+process <TPoint pos=[146, 75] from_pos=[142, 75] dir=R>
+3 possible dirs.
+[146, 79] -> ['T', 'L'] from B
+[150, 75] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[146, 75] from_pos=[142, 75] dir=R>. 2 key positi
+ons found.
+next () -> 32 in queue. 4849 processed.
+process <TPoint pos=[146, 79] from_pos=[146, 75] dir=B>
+2 possible dirs.
+[142, 79] -> ['L', 'R'] from L
+[138, 79] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[146, 79] from_pos=[146, 75] dir=B>. 1 key positi
+ons found.
+next () -> 32 in queue. 4850 processed.
+process <TPoint pos=[138, 79] from_pos=[146, 79] dir=L>
+2 possible dirs.
+[138, 75] -> ['B'] from T
+** Done processing <TPoint pos=[138, 79] from_pos=[146, 79] dir=L>. 0 key positi
+ons found.
+next () -> 31 in queue. 4851 processed.
+process <TPoint pos=[118, 67] from_pos=[122, 67] dir=L>
+2 possible dirs.
+[118, 63] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[118, 67] from_pos=[122, 67] dir=L>. 1 key positi
+ons found.
+next () -> 31 in queue. 4852 processed.
+process <TPoint pos=[118, 63] from_pos=[118, 67] dir=T>
+2 possible dirs.
+[114, 63] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[118, 63] from_pos=[118, 67] dir=T>. 1 key positi
+ons found.
+next () -> 31 in queue. 4853 processed.
+process <TPoint pos=[114, 63] from_pos=[118, 63] dir=L>
+2 possible dirs.
+[114, 59] -> ['B', 'L', 'R'] from T
+** Done processing <TPoint pos=[114, 63] from_pos=[118, 63] dir=L>. 1 key positi
+ons found.
+next () -> 31 in queue. 4854 processed.
+process <TPoint pos=[114, 59] from_pos=[114, 63] dir=T>
+3 possible dirs.
+[110, 59] -> ['T', 'R'] from L
+[118, 59] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[114, 59] from_pos=[114, 63] dir=T>. 2 key positi
+ons found.
+next () -> 32 in queue. 4855 processed.
+process <TPoint pos=[118, 59] from_pos=[114, 59] dir=R>
+2 possible dirs.
+[118, 55] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[118, 59] from_pos=[114, 59] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4856 processed.
+process <TPoint pos=[118, 55] from_pos=[118, 59] dir=T>
+2 possible dirs.
+[114, 55] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[118, 55] from_pos=[118, 59] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4857 processed.
+process <TPoint pos=[114, 55] from_pos=[118, 55] dir=L>
+2 possible dirs.
+[114, 51] -> ['T', 'B'] from T
+[114, 47] -> ['T', 'B'] from T
+[114, 43] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[114, 55] from_pos=[118, 55] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4858 processed.
+process <TPoint pos=[114, 43] from_pos=[114, 55] dir=T>
+2 possible dirs.
+[110, 43] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[114, 43] from_pos=[114, 55] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4859 processed.
+process <TPoint pos=[110, 43] from_pos=[114, 43] dir=L>
+2 possible dirs.
+[110, 47] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[110, 43] from_pos=[114, 43] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4860 processed.
+process <TPoint pos=[110, 47] from_pos=[110, 43] dir=B>
+2 possible dirs.
+[106, 47] -> ['T', 'L', 'R'] from L
+[102, 47] -> ['L', 'R'] from L
+[98, 47] -> ['L', 'R'] from L
+[94, 47] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[110, 47] from_pos=[110, 43] dir=B>. 2 key positi
+ons found.
+next () -> 33 in queue. 4861 processed.
+process <TPoint pos=[94, 47] from_pos=[110, 47] dir=L>
+2 possible dirs.
+[94, 43] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[94, 47] from_pos=[110, 47] dir=L>. 1 key positio
+ns found.
+next () -> 33 in queue. 4862 processed.
+process <TPoint pos=[94, 43] from_pos=[94, 47] dir=T>
+2 possible dirs.
+[98, 43] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[94, 43] from_pos=[94, 47] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4863 processed.
+process <TPoint pos=[98, 43] from_pos=[94, 43] dir=R>
+2 possible dirs.
+[98, 39] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[98, 43] from_pos=[94, 43] dir=R>. 1 key position
+s found.
+next () -> 33 in queue. 4864 processed.
+process <TPoint pos=[98, 39] from_pos=[98, 43] dir=T>
+2 possible dirs.
+[94, 39] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[98, 39] from_pos=[98, 43] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4865 processed.
+process <TPoint pos=[94, 39] from_pos=[98, 39] dir=L>
+2 possible dirs.
+[94, 35] -> ['T', 'B'] from T
+[94, 31] -> ['T', 'B'] from T
+[94, 27] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[94, 39] from_pos=[98, 39] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4866 processed.
+process <TPoint pos=[94, 27] from_pos=[94, 39] dir=T>
+2 possible dirs.
+[90, 27] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[94, 27] from_pos=[94, 39] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4867 processed.
+process <TPoint pos=[90, 27] from_pos=[94, 27] dir=L>
+2 possible dirs.
+[90, 31] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[90, 27] from_pos=[94, 27] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4868 processed.
+process <TPoint pos=[90, 31] from_pos=[90, 27] dir=B>
+2 possible dirs.
+[86, 31] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[90, 31] from_pos=[90, 27] dir=B>. 1 key position
+s found.
+next () -> 33 in queue. 4869 processed.
+process <TPoint pos=[86, 31] from_pos=[90, 31] dir=L>
+2 possible dirs.
+[86, 27] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[86, 31] from_pos=[90, 31] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4870 processed.
+process <TPoint pos=[86, 27] from_pos=[86, 31] dir=T>
+2 possible dirs.
+[82, 27] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[86, 27] from_pos=[86, 31] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4871 processed.
+process <TPoint pos=[82, 27] from_pos=[86, 27] dir=L>
+2 possible dirs.
+[82, 23] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[82, 27] from_pos=[86, 27] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4872 processed.
+process <TPoint pos=[82, 23] from_pos=[82, 27] dir=T>
+2 possible dirs.
+[86, 23] -> ['L', 'R'] from R
+[90, 23] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[82, 23] from_pos=[82, 27] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4873 processed.
+process <TPoint pos=[90, 23] from_pos=[82, 23] dir=R>
+2 possible dirs.
+[90, 19] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[90, 23] from_pos=[82, 23] dir=R>. 1 key position
+s found.
+next () -> 33 in queue. 4874 processed.
+process <TPoint pos=[90, 19] from_pos=[90, 23] dir=T>
+2 possible dirs.
+[94, 19] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[90, 19] from_pos=[90, 23] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4875 processed.
+process <TPoint pos=[94, 19] from_pos=[90, 19] dir=R>
+2 possible dirs.
+[94, 23] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[94, 19] from_pos=[90, 19] dir=R>. 1 key position
+s found.
+next () -> 33 in queue. 4876 processed.
+process <TPoint pos=[94, 23] from_pos=[94, 19] dir=B>
+2 possible dirs.
+[98, 23] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[94, 23] from_pos=[94, 19] dir=B>. 1 key position
+s found.
+next () -> 33 in queue. 4877 processed.
+process <TPoint pos=[98, 23] from_pos=[94, 23] dir=R>
+2 possible dirs.
+[98, 27] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[98, 23] from_pos=[94, 23] dir=R>. 1 key position
+s found.
+next () -> 33 in queue. 4878 processed.
+process <TPoint pos=[98, 27] from_pos=[98, 23] dir=B>
+2 possible dirs.
+[102, 27] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[98, 27] from_pos=[98, 23] dir=B>. 1 key position
+s found.
+next () -> 33 in queue. 4879 processed.
+process <TPoint pos=[102, 27] from_pos=[98, 27] dir=R>
+2 possible dirs.
+[102, 31] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[102, 27] from_pos=[98, 27] dir=R>. 1 key positio
+ns found.
+next () -> 33 in queue. 4880 processed.
+process <TPoint pos=[102, 31] from_pos=[102, 27] dir=B>
+2 possible dirs.
+[106, 31] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[102, 31] from_pos=[102, 27] dir=B>. 1 key positi
+ons found.
+next () -> 33 in queue. 4881 processed.
+process <TPoint pos=[106, 31] from_pos=[102, 31] dir=R>
+2 possible dirs.
+[106, 35] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[106, 31] from_pos=[102, 31] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4882 processed.
+process <TPoint pos=[106, 35] from_pos=[106, 31] dir=B>
+2 possible dirs.
+[102, 35] -> ['L', 'R'] from L
+[98, 35] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[106, 35] from_pos=[106, 31] dir=B>. 1 key positi
+ons found.
+next () -> 33 in queue. 4883 processed.
+process <TPoint pos=[98, 35] from_pos=[106, 35] dir=L>
+2 possible dirs.
+[98, 31] -> ['B'] from T
+** Done processing <TPoint pos=[98, 35] from_pos=[106, 35] dir=L>. 0 key positio
+ns found.
+next () -> 32 in queue. 4884 processed.
+process <TPoint pos=[106, 47] from_pos=[110, 47] dir=L>
+3 possible dirs.
+[106, 43] -> ['B', 'L'] from T
+[102, 47] -> ['L', 'R'] from L
+[98, 47] -> ['L', 'R'] from L
+[94, 47] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[106, 47] from_pos=[110, 47] dir=L>. 2 key positi
+ons found.
+next () -> 32 in queue. 4885 processed.
+process <TPoint pos=[106, 43] from_pos=[106, 47] dir=T>
+2 possible dirs.
+[102, 43] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[106, 43] from_pos=[106, 47] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4886 processed.
+process <TPoint pos=[102, 43] from_pos=[106, 43] dir=L>
+2 possible dirs.
+[102, 39] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[102, 43] from_pos=[106, 43] dir=L>. 1 key positi
+ons found.
+next () -> 32 in queue. 4887 processed.
+process <TPoint pos=[102, 39] from_pos=[102, 43] dir=T>
+2 possible dirs.
+[106, 39] -> ['L', 'R'] from R
+[110, 39] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[102, 39] from_pos=[102, 43] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4888 processed.
+process <TPoint pos=[110, 39] from_pos=[102, 39] dir=R>
+2 possible dirs.
+[110, 35] -> ['T', 'B'] from T
+[110, 31] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[110, 39] from_pos=[102, 39] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4889 processed.
+process <TPoint pos=[110, 31] from_pos=[110, 39] dir=T>
+2 possible dirs.
+[114, 31] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[110, 31] from_pos=[110, 39] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4890 processed.
+process <TPoint pos=[114, 31] from_pos=[110, 31] dir=R>
+2 possible dirs.
+[114, 27] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[114, 31] from_pos=[110, 31] dir=R>. 1 key positi
+ons found.
+next () -> 32 in queue. 4891 processed.
+process <TPoint pos=[114, 27] from_pos=[114, 31] dir=T>
+2 possible dirs.
+[110, 27] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[114, 27] from_pos=[114, 31] dir=T>. 1 key positi
+ons found.
+next () -> 32 in queue. 4892 processed.
+process <TPoint pos=[110, 27] from_pos=[114, 27] dir=L>
+2 possible dirs.
+[110, 23] -> ['T', 'B', 'L', 'R'] from T
+[110, 19] -> ['T', 'B'] from T
+[110, 15] -> ['B', 'L', 'R'] from T
+** Done processing <TPoint pos=[110, 27] from_pos=[114, 27] dir=L>. 2 key positi
+ons found.
+next () -> 33 in queue. 4893 processed.
+process <TPoint pos=[110, 15] from_pos=[110, 27] dir=T>
+3 possible dirs.
+[106, 15] -> ['T', 'R'] from L
+[114, 15] -> ['L', 'R'] from R
+[118, 15] -> ['L'] from R
+** Done processing <TPoint pos=[110, 15] from_pos=[110, 27] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4894 processed.
+process <TPoint pos=[106, 15] from_pos=[110, 15] dir=L>
+2 possible dirs.
+[106, 11] -> ['B', 'R'] from T
+** Done processing <TPoint pos=[106, 15] from_pos=[110, 15] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4895 processed.
+process <TPoint pos=[106, 11] from_pos=[106, 15] dir=T>
+2 possible dirs.
+[110, 11] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[106, 11] from_pos=[106, 15] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4896 processed.
+process <TPoint pos=[110, 11] from_pos=[106, 11] dir=R>
+2 possible dirs.
+[110, 7] -> ['B'] from T
+** Done processing <TPoint pos=[110, 11] from_pos=[106, 11] dir=R>. 0 key positi
+ons found.
+next () -> 32 in queue. 4897 processed.
+process <TPoint pos=[110, 23] from_pos=[110, 27] dir=T>
+4 possible dirs.
+[110, 19] -> ['T', 'B'] from T
+[110, 15] -> ['B', 'L', 'R'] from T
+[106, 23] -> ['T', 'B', 'R'] from L
+[114, 23] -> ['T', 'L', 'R'] from R
+[118, 23] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[110, 23] from_pos=[110, 27] dir=T>. 4 key positi
+ons found.
+next () -> 34 in queue. 4898 processed.
+process <TPoint pos=[118, 23] from_pos=[110, 23] dir=R>
+2 possible dirs.
+[118, 27] -> ['T', 'B'] from B
+[118, 31] -> ['T'] from B
+** Done processing <TPoint pos=[118, 23] from_pos=[110, 23] dir=R>. 0 key positi
+ons found.
+next () -> 33 in queue. 4899 processed.
+process <TPoint pos=[114, 23] from_pos=[110, 23] dir=R>
+3 possible dirs.
+[114, 19] -> ['B', 'R'] from T
+[118, 23] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[114, 23] from_pos=[110, 23] dir=R>. 2 key positi
+ons found.
+next () -> 33 in queue. 4900 processed.
+process <TPoint pos=[114, 19] from_pos=[114, 23] dir=T>
+2 possible dirs.
+[118, 19] -> ['L', 'R'] from R
+[122, 19] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[114, 19] from_pos=[114, 23] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4901 processed.
+process <TPoint pos=[122, 19] from_pos=[114, 19] dir=R>
+2 possible dirs.
+[122, 15] -> ['T', 'B'] from T
+[122, 11] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[122, 19] from_pos=[114, 19] dir=R>. 1 key positi
+ons found.
+next () -> 33 in queue. 4902 processed.
+process <TPoint pos=[122, 11] from_pos=[122, 19] dir=T>
+2 possible dirs.
+[118, 11] -> ['L', 'R'] from L
+[114, 11] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[122, 11] from_pos=[122, 19] dir=T>. 1 key positi
+ons found.
+next () -> 33 in queue. 4903 processed.
+process <TPoint pos=[114, 11] from_pos=[122, 11] dir=L>
+2 possible dirs.
+[114, 7] -> ['T', 'B'] from T
+[114, 3] -> ['B', 'L', 'R'] from T
+** Done processing <TPoint pos=[114, 11] from_pos=[122, 11] dir=L>. 1 key positi
+ons found.
+next () -> 33 in queue. 4904 processed.
+process <TPoint pos=[114, 3] from_pos=[114, 11] dir=T>
+3 possible dirs.
+[110, 3] -> ['L', 'R'] from L
+[106, 3] -> ['B', 'R'] from L
+[118, 3] -> ['L', 'R'] from R
+[122, 3] -> ['L', 'R'] from R
+[126, 3] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[114, 3] from_pos=[114, 11] dir=T>. 2 key positio
+ns found.
+next () -> 34 in queue. 4905 processed.
+process <TPoint pos=[126, 3] from_pos=[114, 3] dir=R>
+2 possible dirs.
+[126, 7] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[126, 3] from_pos=[114, 3] dir=R>. 1 key position
+s found.
+next () -> 34 in queue. 4906 processed.
+process <TPoint pos=[126, 7] from_pos=[126, 3] dir=B>
+2 possible dirs.
+[122, 7] -> ['L', 'R'] from L
+[118, 7] -> ['R'] from L
+** Done processing <TPoint pos=[126, 7] from_pos=[126, 3] dir=B>. 0 key position
+s found.
+next () -> 33 in queue. 4907 processed.
+process <TPoint pos=[106, 3] from_pos=[114, 3] dir=L>
+2 possible dirs.
+[106, 7] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[106, 3] from_pos=[114, 3] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4908 processed.
+process <TPoint pos=[106, 7] from_pos=[106, 3] dir=B>
+2 possible dirs.
+[102, 7] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[106, 7] from_pos=[106, 3] dir=B>. 1 key position
+s found.
+next () -> 33 in queue. 4909 processed.
+process <TPoint pos=[102, 7] from_pos=[106, 7] dir=L>
+2 possible dirs.
+[102, 3] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[102, 7] from_pos=[106, 7] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4910 processed.
+process <TPoint pos=[102, 3] from_pos=[102, 7] dir=T>
+2 possible dirs.
+[98, 3] -> ['L', 'R'] from L
+[94, 3] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[102, 3] from_pos=[102, 7] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4911 processed.
+process <TPoint pos=[94, 3] from_pos=[102, 3] dir=L>
+2 possible dirs.
+[94, 7] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[94, 3] from_pos=[102, 3] dir=L>. 1 key positions
+ found.
+next () -> 33 in queue. 4912 processed.
+process <TPoint pos=[94, 7] from_pos=[94, 3] dir=B>
+2 possible dirs.
+[98, 7] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[94, 7] from_pos=[94, 3] dir=B>. 1 key positions
+found.
+next () -> 33 in queue. 4913 processed.
+process <TPoint pos=[98, 7] from_pos=[94, 7] dir=R>
+2 possible dirs.
+[98, 11] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[98, 7] from_pos=[94, 7] dir=R>. 1 key positions
+found.
+next () -> 33 in queue. 4914 processed.
+process <TPoint pos=[98, 11] from_pos=[98, 7] dir=B>
+2 possible dirs.
+[102, 11] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[98, 11] from_pos=[98, 7] dir=B>. 1 key positions
+ found.
+next () -> 33 in queue. 4915 processed.
+process <TPoint pos=[102, 11] from_pos=[98, 11] dir=R>
+2 possible dirs.
+[102, 15] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[102, 11] from_pos=[98, 11] dir=R>. 1 key positio
+ns found.
+next () -> 33 in queue. 4916 processed.
+process <TPoint pos=[102, 15] from_pos=[102, 11] dir=B>
+2 possible dirs.
+[98, 15] -> ['L', 'R'] from L
+[94, 15] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[102, 15] from_pos=[102, 11] dir=B>. 1 key positi
+ons found.
+next () -> 33 in queue. 4917 processed.
+process <TPoint pos=[94, 15] from_pos=[102, 15] dir=L>
+2 possible dirs.
+[94, 11] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[94, 15] from_pos=[102, 15] dir=L>. 1 key positio
+ns found.
+next () -> 33 in queue. 4918 processed.
+process <TPoint pos=[94, 11] from_pos=[94, 15] dir=T>
+2 possible dirs.
+[90, 11] -> ['T', 'B', 'R'] from L
+** Done processing <TPoint pos=[94, 11] from_pos=[94, 15] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4919 processed.
+process <TPoint pos=[90, 11] from_pos=[94, 11] dir=L>
+3 possible dirs.
+[90, 7] -> ['T', 'B'] from T
+[90, 3] -> ['B'] from T
+[90, 15] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[90, 11] from_pos=[94, 11] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4920 processed.
+process <TPoint pos=[90, 15] from_pos=[90, 11] dir=B>
+2 possible dirs.
+[86, 15] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[90, 15] from_pos=[90, 11] dir=B>. 1 key position
+s found.
+next () -> 33 in queue. 4921 processed.
+process <TPoint pos=[86, 15] from_pos=[90, 15] dir=L>
+2 possible dirs.
+[86, 11] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[86, 15] from_pos=[90, 15] dir=L>. 1 key position
+s found.
+next () -> 33 in queue. 4922 processed.
+process <TPoint pos=[86, 11] from_pos=[86, 15] dir=T>
+2 possible dirs.
+[82, 11] -> ['T', 'B', 'R'] from L
+** Done processing <TPoint pos=[86, 11] from_pos=[86, 15] dir=T>. 1 key position
+s found.
+next () -> 33 in queue. 4923 processed.
+process <TPoint pos=[82, 11] from_pos=[86, 11] dir=L>
+3 possible dirs.
+[82, 7] -> ['B', 'R'] from T
+[82, 15] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[82, 11] from_pos=[86, 11] dir=L>. 2 key position
+s found.
+next () -> 34 in queue. 4924 processed.
+process <TPoint pos=[82, 15] from_pos=[82, 11] dir=B>
+2 possible dirs.
+[78, 15] -> ['T', 'B', 'L', 'R'] from L
+[74, 15] -> ['T', 'L', 'R'] from L
+[70, 15] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[82, 15] from_pos=[82, 11] dir=B>. 3 key position
+s found.
+next () -> 36 in queue. 4925 processed.
+process <TPoint pos=[70, 15] from_pos=[82, 15] dir=L>
+2 possible dirs.
+[70, 11] -> ['B'] from T
+** Done processing <TPoint pos=[70, 15] from_pos=[82, 15] dir=L>. 0 key position
+s found.
+next () -> 35 in queue. 4926 processed.
+process <TPoint pos=[74, 15] from_pos=[82, 15] dir=L>
+3 possible dirs.
+[74, 11] -> ['T', 'B'] from T
+[74, 7] -> ['B', 'L'] from T
+[70, 15] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[74, 15] from_pos=[82, 15] dir=L>. 2 key position
+s found.
+next () -> 35 in queue. 4927 processed.
+process <TPoint pos=[74, 7] from_pos=[74, 15] dir=T>
+2 possible dirs.
+[70, 7] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[74, 7] from_pos=[74, 15] dir=T>. 1 key positions
+ found.
+next () -> 35 in queue. 4928 processed.
+process <TPoint pos=[70, 7] from_pos=[74, 7] dir=L>
+2 possible dirs.
+[70, 3] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[70, 7] from_pos=[74, 7] dir=L>. 1 key positions
+found.
+next () -> 35 in queue. 4929 processed.
+process <TPoint pos=[70, 3] from_pos=[70, 7] dir=T>
+2 possible dirs.
+[66, 3] -> ['L', 'R'] from L
+[62, 3] -> ['L', 'R'] from L
+[58, 3] -> ['B', 'L', 'R'] from L
+[54, 3] -> ['R'] from L
+** Done processing <TPoint pos=[70, 3] from_pos=[70, 7] dir=T>. 1 key positions
+found.
+next () -> 35 in queue. 4930 processed.
+process <TPoint pos=[58, 3] from_pos=[70, 3] dir=L>
+3 possible dirs.
+[58, 7] -> ['T', 'R'] from B
+[54, 3] -> ['R'] from L
+** Done processing <TPoint pos=[58, 3] from_pos=[70, 3] dir=L>. 1 key positions
+found.
+next () -> 35 in queue. 4931 processed.
+process <TPoint pos=[58, 7] from_pos=[58, 3] dir=B>
+2 possible dirs.
+[62, 7] -> ['B', 'L'] from R
+** Done processing <TPoint pos=[58, 7] from_pos=[58, 3] dir=B>. 1 key positions
+found.
+next () -> 35 in queue. 4932 processed.
+process <TPoint pos=[62, 7] from_pos=[58, 7] dir=R>
+2 possible dirs.
+[62, 11] -> ['T', 'R'] from B
+** Done processing <TPoint pos=[62, 7] from_pos=[58, 7] dir=R>. 1 key positions
+found.
+next () -> 35 in queue. 4933 processed.
+process <TPoint pos=[62, 11] from_pos=[62, 7] dir=B>
+2 possible dirs.
+[66, 11] -> ['T', 'L'] from R
+** Done processing <TPoint pos=[62, 11] from_pos=[62, 7] dir=B>. 1 key positions
+ found.
+next () -> 35 in queue. 4934 processed.
+process <TPoint pos=[66, 11] from_pos=[62, 11] dir=R>
+2 possible dirs.
+[66, 7] -> ['B'] from T
+** Done processing <TPoint pos=[66, 11] from_pos=[62, 11] dir=R>. 0 key position
+s found.
+next () -> 34 in queue. 4935 processed.
+process <TPoint pos=[78, 15] from_pos=[82, 15] dir=L>
+4 possible dirs.
+[78, 11] -> ['T', 'B'] from T
+[78, 7] -> ['T', 'B'] from T
+[78, 3] -> ['B', 'L'] from T
+[78, 19] -> ['T', 'B', 'R'] from B
+[78, 23] -> ['T', 'B'] from B
+[78, 27] -> ['T', 'L'] from B
+[74, 15] -> ['T', 'L', 'R'] from L
+[70, 15] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[78, 15] from_pos=[82, 15] dir=L>. 5 key position
+s found.
+next () -> 36 in queue. 4936 processed.
+process <TPoint pos=[78, 27] from_pos=[78, 15] dir=B>
+2 possible dirs.
+[74, 27] -> ['T', 'B', 'L', 'R'] from L
+[70, 27] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[78, 27] from_pos=[78, 15] dir=B>. 2 key position
+s found.
+next () -> 37 in queue. 4937 processed.
+process <TPoint pos=[70, 27] from_pos=[78, 27] dir=L>
+2 possible dirs.
+[70, 23] -> ['T', 'B'] from T
+[70, 19] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[70, 27] from_pos=[78, 27] dir=L>. 1 key position
+s found.
+next () -> 37 in queue. 4938 processed.
+process <TPoint pos=[70, 19] from_pos=[70, 27] dir=T>
+2 possible dirs.
+[66, 19] -> ['T', 'L', 'R'] from L
+[62, 19] -> ['L', 'R'] from L
+[58, 19] -> ['R'] from L
+** Done processing <TPoint pos=[70, 19] from_pos=[70, 27] dir=T>. 1 key position
+s found.
+next () -> 37 in queue. 4939 processed.
+process <TPoint pos=[66, 19] from_pos=[70, 19] dir=L>
+3 possible dirs.
+[66, 15] -> ['B', 'L'] from T
+[62, 19] -> ['L', 'R'] from L
+[58, 19] -> ['R'] from L
+** Done processing <TPoint pos=[66, 19] from_pos=[70, 19] dir=L>. 1 key position
+s found.
+next () -> 37 in queue. 4940 processed.
+process <TPoint pos=[66, 15] from_pos=[66, 19] dir=T>
+2 possible dirs.
+[62, 15] -> ['L', 'R'] from L
+[58, 15] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[66, 15] from_pos=[66, 19] dir=T>. 1 key position
+s found.
+next () -> 37 in queue. 4941 processed.
+process <TPoint pos=[58, 15] from_pos=[66, 15] dir=L>
+2 possible dirs.
+[58, 11] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[58, 15] from_pos=[66, 15] dir=L>. 1 key position
+s found.
+next () -> 37 in queue. 4942 processed.
+process <TPoint pos=[58, 11] from_pos=[58, 15] dir=T>
+2 possible dirs.
+[54, 11] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[58, 11] from_pos=[58, 15] dir=T>. 1 key position
+s found.
+next () -> 37 in queue. 4943 processed.
+process <TPoint pos=[54, 11] from_pos=[58, 11] dir=L>
+2 possible dirs.
+[54, 7] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[54, 11] from_pos=[58, 11] dir=L>. 1 key position
+s found.
+next () -> 37 in queue. 4944 processed.
+process <TPoint pos=[54, 7] from_pos=[54, 11] dir=T>
+2 possible dirs.
+[50, 7] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[54, 7] from_pos=[54, 11] dir=T>. 1 key positions
+ found.
+next () -> 37 in queue. 4945 processed.
+process <TPoint pos=[50, 7] from_pos=[54, 7] dir=L>
+2 possible dirs.
+[50, 3] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[50, 7] from_pos=[54, 7] dir=L>. 1 key positions
+found.
+next () -> 37 in queue. 4946 processed.
+process <TPoint pos=[50, 3] from_pos=[50, 7] dir=T>
+2 possible dirs.
+[46, 3] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[50, 3] from_pos=[50, 7] dir=T>. 1 key positions
+found.
+next () -> 37 in queue. 4947 processed.
+process <TPoint pos=[46, 3] from_pos=[50, 3] dir=L>
+2 possible dirs.
+[46, 7] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[46, 3] from_pos=[50, 3] dir=L>. 1 key positions
+found.
+next () -> 37 in queue. 4948 processed.
+process <TPoint pos=[46, 7] from_pos=[46, 3] dir=B>
+2 possible dirs.
+[42, 7] -> ['T', 'B', 'R'] from L
+** Done processing <TPoint pos=[46, 7] from_pos=[46, 3] dir=B>. 1 key positions
+found.
+next () -> 37 in queue. 4949 processed.
+process <TPoint pos=[42, 7] from_pos=[46, 7] dir=L>
+3 possible dirs.
+[42, 3] -> ['B', 'L'] from T
+[42, 11] -> ['T', 'L'] from B
+** Done processing <TPoint pos=[42, 7] from_pos=[46, 7] dir=L>. 2 key positions
+found.
+next () -> 38 in queue. 4950 processed.
+process <TPoint pos=[42, 11] from_pos=[42, 7] dir=B>
+2 possible dirs.
+[38, 11] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[42, 11] from_pos=[42, 7] dir=B>. 1 key positions
+ found.
+next () -> 38 in queue. 4951 processed.
+process <TPoint pos=[38, 11] from_pos=[42, 11] dir=L>
+2 possible dirs.
+[38, 7] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[38, 11] from_pos=[42, 11] dir=L>. 1 key position
+s found.
+next () -> 38 in queue. 4952 processed.
+process <TPoint pos=[38, 7] from_pos=[38, 11] dir=T>
+2 possible dirs.
+[34, 7] -> ['R'] from L
+** Done processing <TPoint pos=[38, 7] from_pos=[38, 11] dir=T>. 0 key positions
+ found.
+next () -> 37 in queue. 4953 processed.
+process <TPoint pos=[42, 3] from_pos=[42, 7] dir=T>
+2 possible dirs.
+[38, 3] -> ['L', 'R'] from L
+[34, 3] -> ['L', 'R'] from L
+[30, 3] -> ['B', 'L', 'R'] from L
+[26, 3] -> ['B', 'L', 'R'] from L
+[22, 3] -> ['L', 'R'] from L
+[18, 3] -> ['L', 'R'] from L
+[14, 3] -> ['B', 'L', 'R'] from L
+[10, 3] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[42, 3] from_pos=[42, 7] dir=T>. 4 key positions
+found.
+next () -> 40 in queue. 4954 processed.
+process <TPoint pos=[10, 3] from_pos=[42, 3] dir=L>
+2 possible dirs.
+[10, 7] -> ['T'] from B
+** Done processing <TPoint pos=[10, 3] from_pos=[42, 3] dir=L>. 0 key positions
+found.
+next () -> 39 in queue. 4955 processed.
+process <TPoint pos=[14, 3] from_pos=[42, 3] dir=L>
+3 possible dirs.
+[14, 7] -> ['T', 'B'] from B
+[14, 11] -> ['T', 'L'] from B
+[10, 3] -> ['B', 'R'] from L
+** Done processing <TPoint pos=[14, 3] from_pos=[42, 3] dir=L>. 2 key positions
+found.
+next () -> 39 in queue. 4956 processed.
+process <TPoint pos=[14, 11] from_pos=[14, 3] dir=B>
+2 possible dirs.
+[10, 11] -> ['L', 'R'] from L
+[6, 11] -> ['T', 'R'] from L
+** Done processing <TPoint pos=[14, 11] from_pos=[14, 3] dir=B>. 1 key positions
+ found.
+next () -> 39 in queue. 4957 processed.
+process <TPoint pos=[6, 11] from_pos=[14, 11] dir=L>
+2 possible dirs.
+[6, 7] -> ['T', 'B', 'L'] from T
+[6, 3] -> ['B', 'L'] from T
+** Done processing <TPoint pos=[6, 11] from_pos=[14, 11] dir=L>. 2 key positions
+ found.
+next () -> 40 in queue. 4958 processed.
+process <TPoint pos=[6, 3] from_pos=[6, 11] dir=T>
+2 possible dirs.
+[2, 3] -> ['R'] from L
